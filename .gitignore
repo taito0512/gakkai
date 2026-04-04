@@ -1,0 +1,10 @@
+# 大容量CSVデータ（GitHubの制限のため除外）
+*.csv
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
