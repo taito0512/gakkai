@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+folium
+streamlit
+streamlit-folium
+anthropic
+fastapi
+uvicorn
+python-pptx
+PyMuPDF
+pdfplumber
+scipy

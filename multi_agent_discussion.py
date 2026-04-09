@@ -1,25 +1,48 @@
 """
 マルチエージェント議論スクリプト
-テーマ: 笠間市のIoU70%をどう改善するか、または現状の精度で実務にどう活用するか
+テーマ: 最新論文の知見を踏まえ、笠間市IoU74.8%からの次の一手と教師なし手法の将来性
 """
 
 import os
 import anthropic
 
 # --- 設定 ---
-MODEL = "claude-sonnet-4-20250514"
+MODEL = "claude-sonnet-4-6"
 ROUNDS = 5
 MAX_TOKENS = 1024
 
 RESEARCH_CONTEXT = """
 【研究概要】
-- 手法: Sentinel-1/2衛星データを用いた教師なし水田スクリーニング（K-Means, k=5）
-- 特徴量: VH_min（冬期最小後方散乱）, NDVI_grow（生育期NDVI）, VH_winter（冬期後方散乱）, NDVI_flood（湛水期NDVI）
-- 検証結果:
-    - つくばみらい市: Accuracy 90.2%, IoU 80.1%
-    - 稲敷市:         Accuracy 93.3%, IoU 89.3%
-    - 笠間市:         Accuracy 90.0%, IoU 70.1%（丘陵地帯、精度低下）
-- 課題: 笠間市は丘陵部が多く、地形指標（傾斜・標高）を追加しても精度改善なし
+Sentinel-1/2衛星データを用いた教師なし水田スクリーニング（茨城県3地域）
+
+■ 確定した統一手法
+  特徴量: VH_min, NDVI_grow, VH_winter, NDVI_flood（ベース4）
+          + dNDVI(=NDVI_grow-NDVI_flood), dVH(=VH_min-VH_winter)（派生2）= 計6特徴量
+  アルゴリズム: K-Means(k=4) 3地域統一
+
+■ 精度結果（統一手法）
+  つくばみらい市: IoU 85.80%（平野部）
+  稲敷市:         IoU 88.59%（平野部）
+  笠間市:         IoU 72.91%（丘陵部）
+
+■ 特徴量寄与率（ablation study, 3地域平均IoU低下）
+  VH_winter除外: -14.4%（最重要）
+  VH_min除外:    -11.1%
+  NDVI_grow除外: -6.0%
+  NDVI_flood除外:-3.5%
+  dNDVI除外:     -1.6%
+  dVH除外:       -0.2%（ほぼ無影響）
+
+■ 参照データ
+  JAXA HRLULC（土地利用分類）を正解ラベルとして使用
+
+■ 笠間市が難しい理由
+  丘陵地帯が多く、SARの地形散乱（フォアショートニング）が水田検知を阻害。
+  水田比率が30%と低く（他2地域は50〜61%）、教師なし手法のクラスタ割当が困難。
+  耕作放棄地との誤検知分離が主要課題。
+
+■ 発表予定
+  農業情報学会（5月末）、口頭発表15分
 """
 
 AGENTS = [
@@ -46,7 +69,23 @@ MODERATOR = {
     "style": "議論全体を俯瞰し、各専門家の意見を整理して総括する。公平で建設的。",
 }
 
-DISCUSSION_TOPIC = "笠間市のIoU70%をどう改善するか、または現状の精度で実務にどう活用するか"
+DISCUSSION_TOPIC = """
+農業情報学会（5月末、口頭発表15分）に向けて、現在の研究内容に対して
+査読者・聴衆から突っ込まれそうな穴・弱点を洗い出してほしい。
+
+現在の状況：
+- 統一手法（6特徴量・k=4）で3地域の精度確定済み
+- ablation studyでVH_winterが最重要（-14.4%）と判明
+- 笠間市で目視確認実施（FP=山林/耕作放棄地、FN=全件水田と確認）
+- 旧手法（4特徴量・k=5）と新手法の分類結果が98.2%一致することを確認
+- JAXA HRLULCを参照データとして使用（122地点目視で87.5%一致を確認済み）
+- Foliumで航空写真上に分類結果を可視化するデモを用意
+
+以下の観点で議論してほしい：
+(1) 研究の設計・手法面で査読者に突っ込まれそうな弱点はどこか
+(2) 精度評価・検証の面で不十分な点はあるか
+(3) 実用性・社会実装の観点で説明が足りていない点はあるか
+"""
 
 
 def build_system_prompt(agent: dict) -> str:
@@ -124,11 +163,7 @@ def call_moderator(client: anthropic.Anthropic, conversation_history: list) -> s
 
 
 def main():
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
-    if not api_key:
-        raise EnvironmentError("環境変数 ANTHROPIC_API_KEY が設定されていません。")
-
-    client = anthropic.Anthropic(api_key=api_key)
+    client = anthropic.Anthropic()  # 環境変数から自動取得
 
     print("=" * 60)
     print("マルチエージェント議論")
