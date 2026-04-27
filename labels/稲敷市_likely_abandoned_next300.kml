@@ -1,0 +1,3939 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>稲敷市 放棄地追加候補 next300</name>
+    <Style id="high">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="medium">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/orange-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="low">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>高優先 1-100</name>
+      <Placemark>
+        <name>B0001</name>
+        <description>候補スコア: 145.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 4042㎡
+住所: 茨城県稲敷市福田字八幡前1580
+lat: 35.943706, lon: 140.371257</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37125749200004,35.943705919000024,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0002</name>
+        <description>候補スコア: 145.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 3152㎡
+住所: 茨城県稲敷市神宮寺字西ノ作1309
+lat: 35.951367, lon: 140.369623</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36962264800002,35.95136672700005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0003</name>
+        <description>候補スコア: 137.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 2958㎡
+住所: 茨城県稲敷市福田字■々田1468-1
+lat: 35.941811, lon: 140.372272</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37227172200005,35.94181147100005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0004</name>
+        <description>候補スコア: 137.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 2547㎡
+住所: 茨城県稲敷市神宮寺字神明2571
+lat: 35.943966, lon: 140.367306</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.367305847,35.94396642700008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0005</name>
+        <description>候補スコア: 137.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 2477㎡
+住所: 茨城県稲敷市神宮寺字神明2568
+lat: 35.944482, lon: 140.366986</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36698615600005,35.944481567000025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0006</name>
+        <description>候補スコア: 137.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 2118㎡
+住所: 茨城県稲敷市神宮寺字東台7
+lat: 35.957332, lon: 140.374369</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3743693680001,35.95733172100006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0007</name>
+        <description>候補スコア: 137.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 2034㎡
+住所: 茨城県稲敷市神宮寺字西ノ作1310
+lat: 35.951669, lon: 140.369839</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36983884100005,35.95166879900006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0008</name>
+        <description>候補スコア: 137.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 1939㎡
+住所: 茨城県稲敷市神宮寺字東台9
+lat: 35.956957, lon: 140.374484</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3744843400001,35.95695733500003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0009</name>
+        <description>候補スコア: 137.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 1916㎡
+住所: 茨城県稲敷市神宮寺字神明2573
+lat: 35.944445, lon: 140.367416</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3674162950001,35.944445192000046,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0010</name>
+        <description>候補スコア: 137.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 1900㎡
+住所: 茨城県稲敷市福田字戸■1608
+lat: 35.944199, lon: 140.369739</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36973850200002,35.944198964000066,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0011</name>
+        <description>候補スコア: 137.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 1856㎡
+住所: 茨城県稲敷市神宮寺字中寄合1257
+lat: 35.952278, lon: 140.371935</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3719352700001,35.952277980000076,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0012</name>
+        <description>候補スコア: 137.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 1728㎡
+住所: 茨城県稲敷市福田字戸■1612
+lat: 35.943670, lon: 140.369794</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36979420700004,35.94367046600007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0013</name>
+        <description>候補スコア: 137.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 1604㎡
+住所: 茨城県稲敷市神宮寺字中寄合1280
+lat: 35.951764, lon: 140.370695</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37069543200005,35.951763792000065,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0014</name>
+        <description>候補スコア: 137.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 1538㎡
+住所: 茨城県稲敷市神宮寺字西ノ作1287
+lat: 35.951302, lon: 140.371242</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37124194900002,35.95130226600003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0015</name>
+        <description>候補スコア: 137.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 1534㎡
+住所: 茨城県稲敷市阿波字とうが谷津1660-2
+lat: 35.951065, lon: 140.368607</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36860668400004,35.95106547600005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0016</name>
+        <description>候補スコア: 137.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 1516㎡
+住所: 茨城県稲敷市神宮寺字西ノ作1303
+lat: 35.951869, lon: 140.370285</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37028548800004,35.95186852200004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0017</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1431㎡
+住所: 茨城県稲敷市福田字薬師堂1329-1
+lat: 35.943364, lon: 140.367319</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36731879600006,35.94336423500005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0018</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1410㎡
+住所: 茨城県稲敷市神宮寺字やち山1205
+lat: 35.953227, lon: 140.370311</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37031083800002,35.953226606000044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0019</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1342㎡
+住所: 茨城県稲敷市福田字大王前1540
+lat: 35.940967, lon: 140.373033</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3730329130001,35.94096660300005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0020</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1328㎡
+住所: 茨城県稲敷市神宮寺字神明2574
+lat: 35.944472, lon: 140.367682</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.367681585,35.94447201200006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0021</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1299㎡
+住所: 茨城県稲敷市神宮寺字西ノ作1304
+lat: 35.951781, lon: 140.370083</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3700828200001,35.95178058000005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0022</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1289㎡
+住所: 茨城県稲敷市福田字八幡前1578
+lat: 35.942969, lon: 140.370939</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37093856400008,35.942968646000054,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0023</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1272㎡
+住所: 茨城県稲敷市福田字八幡前1547
+lat: 35.942255, lon: 140.371775</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37177509100002,35.94225527300006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0024</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1193㎡
+住所: 茨城県稲敷市福田字神明前1679
+lat: 35.943940, lon: 140.367646</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36764609700003,35.943940326000074,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0025</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1163㎡
+住所: 茨城県稲敷市市崎字長作1612
+lat: 35.945171, lon: 140.370464</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.370463577,35.94517078300004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0026</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1104㎡
+住所: 茨城県稲敷市福田字戸■1581
+lat: 35.943362, lon: 140.370625</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37062455700004,35.94336175600006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0027</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1103㎡
+住所: 茨城県稲敷市神宮寺字寄合1357
+lat: 35.951605, lon: 140.372148</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37214802000005,35.95160499000008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0028</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1093㎡
+住所: 茨城県稲敷市神宮寺字東台5
+lat: 35.957215, lon: 140.373927</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37392701900012,35.95721541800003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0029</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1080㎡
+住所: 茨城県稲敷市福田字蔵増地1634
+lat: 35.944840, lon: 140.369414</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.369414268,35.94483983400005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0030</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1075㎡
+住所: 茨城県稲敷市神宮寺字西ノ作1301
+lat: 35.951349, lon: 140.370398</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3703980570001,35.95134886200003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0031</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1018㎡
+住所: 茨城県稲敷市福田字神明前1691
+lat: 35.945126, lon: 140.368064</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36806437100006,35.94512607100006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0032</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1008㎡
+住所: 茨城県稲敷市市崎字中根1663
+lat: 35.942194, lon: 140.372382</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37238242400008,35.94219382800003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0033</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1001㎡
+住所: 茨城県稲敷市福田字向らく1805
+lat: 35.943676, lon: 140.373999</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3739989930001,35.94367603200004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0034</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 995㎡
+住所: 茨城県稲敷市福田字向らく1793
+lat: 35.944565, lon: 140.374408</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3744075830001,35.94456517300006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0035</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 991㎡
+住所: 茨城県稲敷市福田字神明前1692-1
+lat: 35.945240, lon: 140.367748</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.367747645,35.94524036900003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0036</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 985㎡
+住所: 茨城県稲敷市福田字戸■1596
+lat: 35.944468, lon: 140.371125</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3711247540001,35.94446848000007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0037</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 967㎡
+住所: 茨城県稲敷市神宮寺字中寄合1251
+lat: 35.952628, lon: 140.371887</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37188695800012,35.95262822600006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0038</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 925㎡
+住所: 茨城県稲敷市神宮寺字屋ち山1195
+lat: 35.952654, lon: 140.369470</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36946981900007,35.95265447700007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0039</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 910㎡
+住所: 茨城県稲敷市神宮寺字神明2575
+lat: 35.944936, lon: 140.367746</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36774599000012,35.94493565600004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0040</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 892㎡
+住所: 茨城県稲敷市福田字八幡前1566
+lat: 35.943834, lon: 140.372144</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3721435000001,35.94383367200004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0041</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 846㎡
+住所: 茨城県稲敷市福田字薬師堂1330
+lat: 35.943308, lon: 140.367652</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36765179000008,35.943308193000064,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0042</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 839㎡
+住所: 茨城県稲敷市福田字戸■1587
+lat: 35.943638, lon: 140.370544</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37054413900012,35.943638376000024,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0043</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 829㎡
+住所: 茨城県稲敷市神宮寺字屋ち山1193
+lat: 35.952455, lon: 140.369243</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36924291100001,35.95245452300003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0044</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 816㎡
+住所: 茨城県稲敷市福田字八幡前1575
+lat: 35.943410, lon: 140.371490</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3714895700001,35.94341017900007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0045</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 813㎡
+住所: 茨城県稲敷市福田字戸■1595
+lat: 35.944184, lon: 140.370821</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37082056200006,35.94418403100008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0046</name>
+        <description>候補スコア: 131.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 809㎡
+住所: 茨城県稲敷市福田字神明前1674-1
+lat: 35.943577, lon: 140.368343</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3683428180001,35.94357694400003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0047</name>
+        <description>候補スコア: 130.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 6736㎡
+住所: 茨城県稲敷市神宮寺字長堀145-4
+lat: 35.958877, lon: 140.372005</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.372004628,35.95887700000003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0048</name>
+        <description>候補スコア: 130.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 5880㎡
+住所: 茨城県稲敷市阿波字阿波1581
+lat: 35.948583, lon: 140.372236</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37223559100005,35.94858341200006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0049</name>
+        <description>候補スコア: 130.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 3679㎡
+住所: 茨城県稲敷市阿波字諏訪久保1651
+lat: 35.951008, lon: 140.374051</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37405051700011,35.95100770200003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0050</name>
+        <description>候補スコア: 130.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 3614㎡
+住所: 茨城県稲敷市神宮寺字神宮寺1590-1
+lat: 35.948385, lon: 140.368752</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3687517720001,35.948384813000075,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0051</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 793㎡
+住所: 茨城県稲敷市福田字神明前1675-2
+lat: 35.943874, lon: 140.368052</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3680517360001,35.94387447200006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0052</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 786㎡
+住所: 茨城県稲敷市福田字大手前1534
+lat: 35.941126, lon: 140.373639</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37363861100005,35.94112619200007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0053</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 773㎡
+住所: 茨城県稲敷市福田字大手前1533
+lat: 35.940884, lon: 140.373961</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37396139800012,35.940884234000066,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0054</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 763㎡
+住所: 茨城県稲敷市福田字蔵増地1619
+lat: 35.943654, lon: 140.369265</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36926450500005,35.943654012000025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0055</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 762㎡
+住所: 茨城県稲敷市神宮寺字中寄合1259
+lat: 35.952264, lon: 140.371527</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37152677400002,35.95226426000005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0056</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 760㎡
+住所: 茨城県稲敷市福田字大道1335
+lat: 35.943191, lon: 140.368031</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36803081000005,35.943191409000065,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0057</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 747㎡
+住所: 茨城県稲敷市福田字蔵増地1632
+lat: 35.944519, lon: 140.369103</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36910315900002,35.944519197000034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0058</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 747㎡
+住所: 茨城県稲敷市福田字一本榎1535
+lat: 35.941397, lon: 140.373636</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37363572100003,35.941396852000025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0059</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 740㎡
+住所: 茨城県稲敷市福田字向らく1804
+lat: 35.943979, lon: 140.373776</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37377646100003,35.943978780000066,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0060</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 733㎡
+住所: 茨城県稲敷市神宮寺字西ノ作1327-2
+lat: 35.949580, lon: 140.369589</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36958944600008,35.949580420000075,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0061</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 727㎡
+住所: 茨城県稲敷市市崎字長作1627
+lat: 35.945020, lon: 140.371117</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37111709700002,35.94501999700003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0062</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 723㎡
+住所: 茨城県稲敷市福田字蔵増地1638
+lat: 35.945232, lon: 140.369648</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36964844200008,35.94523220700006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0063</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 713㎡
+住所: 茨城県稲敷市神宮寺字中寄合1265
+lat: 35.952124, lon: 140.371073</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37107300500008,35.952124490000074,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0064</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 701㎡
+住所: 茨城県稲敷市神宮寺字中寄合1260
+lat: 35.952054, lon: 140.371663</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3716632380001,35.952053644000046,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0065</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 700㎡
+住所: 茨城県稲敷市福田字向らく1823-1
+lat: 35.942818, lon: 140.373206</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37320558500005,35.942818127000066,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0066</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 694㎡
+住所: 茨城県稲敷市福田字八幡前1548
+lat: 35.942403, lon: 140.372135</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37213478400008,35.94240307100006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0067</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 694㎡
+住所: 茨城県稲敷市福田字大林1920-5
+lat: 35.941167, lon: 140.374114</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37411445700002,35.941166717000044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0068</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 690㎡
+住所: 茨城県稲敷市福田字大王前1538
+lat: 35.941331, lon: 140.373290</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.373289977,35.94133145700005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0069</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 687㎡
+住所: 茨城県稲敷市福田字蔵増地1636
+lat: 35.945075, lon: 140.370046</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3700461090001,35.94507459600004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0070</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 677㎡
+住所: 茨城県稲敷市福田字向らく1807
+lat: 35.943918, lon: 140.374265</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37426465700003,35.943918487000076,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0071</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 671㎡
+住所: 茨城県稲敷市福田字蔵増地1635
+lat: 35.945003, lon: 140.369735</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36973498300006,35.94500263400005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0072</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 667㎡
+住所: 茨城県稲敷市福田字神明前1689
+lat: 35.945074, lon: 140.367406</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36740561800002,35.94507368700005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0073</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 657㎡
+住所: 茨城県稲敷市福田字戸■1583
+lat: 35.943279, lon: 140.370078</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3700777690001,35.943279318000066,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0074</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 654㎡
+住所: 茨城県稲敷市市崎字長作1631
+lat: 35.944295, lon: 140.371415</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3714152350001,35.94429471400008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0075</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 641㎡
+住所: 茨城県稲敷市市崎字長作1630
+lat: 35.944232, lon: 140.371165</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37116466800012,35.94423156300007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0076</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 628㎡
+住所: 茨城県稲敷市福田字神明前1676
+lat: 35.943752, lon: 140.367860</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36786038800005,35.94375232300007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0077</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 624㎡
+住所: 茨城県稲敷市福田字大道1338
+lat: 35.943197, lon: 140.368326</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36832587700007,35.943197385000076,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0078</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 621㎡
+住所: 茨城県稲敷市福田字大王前1542
+lat: 35.941359, lon: 140.372669</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3726689570001,35.94135932800003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0079</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 614㎡
+住所: 茨城県稲敷市神宮寺字中寄合1263
+lat: 35.952020, lon: 140.371372</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37137243100005,35.952020289000075,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0080</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 614㎡
+住所: 茨城県稲敷市福田字薬師堂1329-2
+lat: 35.943336, lon: 140.367515</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36751522100008,35.94333586000005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0081</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 608㎡
+住所: 茨城県稲敷市福田字向らく1792
+lat: 35.944625, lon: 140.374167</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3741668120001,35.94462546300008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0082</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 604㎡
+住所: 茨城県稲敷市福田字大道1336
+lat: 35.943277, lon: 140.368209</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36820904,35.943276953000066,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0083</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 595㎡
+住所: 茨城県稲敷市福田字向らく1801
+lat: 35.944436, lon: 140.373658</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37365840200005,35.94443587600006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0084</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 591㎡
+住所: 茨城県稲敷市市崎字長作1629
+lat: 35.944623, lon: 140.371322</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37132188200007,35.94462335900005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0085</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 566㎡
+住所: 茨城県稲敷市神宮寺字寄合1355
+lat: 35.951269, lon: 140.371720</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37171981400002,35.951268810000045,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0086</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 545㎡
+住所: 茨城県稲敷市福田字戸■1584-2
+lat: 35.943516, lon: 140.370218</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3702180670001,35.943515743000034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0087</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 542㎡
+住所: 茨城県稲敷市神宮寺字寄合1354-1
+lat: 35.950998, lon: 140.371749</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37174907600001,35.95099758500004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0088</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 542㎡
+住所: 茨城県稲敷市福田字向らく1822
+lat: 35.942949, lon: 140.372698</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37269822000007,35.94294871900007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0089</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 542㎡
+住所: 茨城県稲敷市福田字神明前1686
+lat: 35.944770, lon: 140.367212</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36721153500002,35.94477010300005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0090</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 532㎡
+住所: 茨城県稲敷市福田字戸■1582-1
+lat: 35.943177, lon: 140.370332</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37033182200003,35.94317669600008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0091</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 532㎡
+住所: 茨城県稲敷市福田字戸■1616
+lat: 35.943497, lon: 140.369041</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36904068,35.94349723900007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0092</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 525㎡
+住所: 茨城県稲敷市福田字戸■1611
+lat: 35.943880, lon: 140.369923</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3699231480001,35.94388003800003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0093</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 525㎡
+住所: 茨城県稲敷市福田字向らく1810-3
+lat: 35.943457, lon: 140.374278</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37427841800002,35.94345676800003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0094</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 525㎡
+住所: 茨城県稲敷市福田字大道1334
+lat: 35.943082, lon: 140.367802</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36780165200003,35.94308244700005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0095</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 512㎡
+住所: 茨城県稲敷市福田字向らく1820
+lat: 35.943267, lon: 140.372648</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3726482950001,35.94326669900005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0096</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 489㎡
+住所: 茨城県稲敷市市崎字中根1664-4
+lat: 35.942315, lon: 140.372781</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.37278142000002,35.94231486000007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0097</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 485㎡
+住所: 茨城県稲敷市福田字渡辺1828
+lat: 35.942079, lon: 140.373968</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3739681090001,35.94207862300004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0098</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 485㎡
+住所: 茨城県稲敷市福田字神明前1664
+lat: 35.944301, lon: 140.368437</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36843700200006,35.94430076900005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0099</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 482㎡
+住所: 茨城県稲敷市市崎字中根1664-5
+lat: 35.942386, lon: 140.372715</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.3727148270001,35.94238611500003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0100</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 482㎡
+住所: 茨城県稲敷市福田字神明前1678
+lat: 35.943850, lon: 140.367713</description>
+        <styleUrl>#high</styleUrl>
+        <Point>
+          <coordinates>140.36771257500004,35.943849992000025,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>中優先 101-200</name>
+      <Placemark>
+        <name>B0101</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 476㎡
+住所: 茨城県稲敷市福田字蔵増地1633
+lat: 35.944688, lon: 140.369205</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.369204781,35.94468778300006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0102</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 472㎡
+住所: 茨城県稲敷市市崎字中根1664-6
+lat: 35.942474, lon: 140.372622</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.372622223,35.94247413000005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0103</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 472㎡
+住所: 茨城県稲敷市福田字戸■1582-2
+lat: 35.943145, lon: 140.370564</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37056406300007,35.94314492500007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0104</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 469㎡
+住所: 茨城県稲敷市福田字神明前1683
+lat: 35.944481, lon: 140.367970</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36796961800007,35.94448097000003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0105</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 461㎡
+住所: 茨城県稲敷市神宮寺字中寄合1256
+lat: 35.952209, lon: 140.372330</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37232956200012,35.952208763000044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0106</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 459㎡
+住所: 茨城県稲敷市福田字大道1343-1
+lat: 35.943224, lon: 140.368793</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36879289800004,35.94322397700006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0107</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 456㎡
+住所: 茨城県稲敷市神宮寺字中寄合1261
+lat: 35.951868, lon: 140.371482</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37148208400004,35.95186810200005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0108</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 454㎡
+住所: 茨城県稲敷市神宮寺字西ノ作1328
+lat: 35.949433, lon: 140.369366</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3693661530001,35.94943277200008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0109</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 452㎡
+住所: 茨城県稲敷市市崎字中根1657
+lat: 35.943428, lon: 140.372494</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37249432300007,35.94342828600003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0110</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 452㎡
+住所: 茨城県稲敷市福田字神明前1659
+lat: 35.944721, lon: 140.368876</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36887586000012,35.94472101800005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0111</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 449㎡
+住所: 茨城県稲敷市福田字戸■1598
+lat: 35.944243, lon: 140.370482</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3704822210001,35.94424274000005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0112</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 439㎡
+住所: 茨城県稲敷市福田字八幡前1568-1
+lat: 35.943998, lon: 140.372474</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37247392200004,35.94399779500003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0113</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 436㎡
+住所: 茨城県稲敷市福田字大王前1537
+lat: 35.941544, lon: 140.373161</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37316083400003,35.94154437000003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0114</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 426㎡
+住所: 茨城県稲敷市福田字渡辺1829
+lat: 35.941894, lon: 140.373903</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37390327100002,35.941893927000024,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0115</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 426㎡
+住所: 茨城県稲敷市福田字神明前1680
+lat: 35.944006, lon: 140.367915</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36791475100006,35.94400608500007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0116</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 423㎡
+住所: 茨城県稲敷市福田字大道1340
+lat: 35.943098, lon: 140.368452</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36845202000006,35.94309789000005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0117</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 419㎡
+住所: 茨城県稲敷市福田字戸■1593
+lat: 35.943963, lon: 140.370839</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37083924400008,35.94396291900006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0118</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 419㎡
+住所: 茨城県稲敷市福田字神明前1685
+lat: 35.944812, lon: 140.368040</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.368039876,35.94481215400003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0119</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 419㎡
+住所: 茨城県稲敷市福田字神明前1690
+lat: 35.944962, lon: 140.367567</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36756719800007,35.944962247000035,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0120</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 409㎡
+住所: 茨城県稲敷市福田字向らく1821
+lat: 35.943241, lon: 140.372880</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37288004200002,35.94324089200006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0121</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 403㎡
+住所: 茨城県稲敷市神宮寺字西ノ作1297
+lat: 35.950575, lon: 140.370084</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.370083947,35.950574965000044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0122</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 403㎡
+住所: 茨城県稲敷市福田字向らく1803
+lat: 35.944320, lon: 140.373420</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3734196250001,35.94431961200007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0123</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 403㎡
+住所: 茨城県稲敷市福田字神明前1650
+lat: 35.944938, lon: 140.369111</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36911087600004,35.94493831400007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0124</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 400㎡
+住所: 茨城県稲敷市市崎字中根1660
+lat: 35.942932, lon: 140.372404</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3724040620001,35.94293208400006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0125</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 390㎡
+住所: 茨城県稲敷市福田字神明前1667
+lat: 35.944091, lon: 140.368612</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3686116880001,35.944091085000025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0126</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 383㎡
+住所: 茨城県稲敷市市崎字中根1664-7
+lat: 35.942592, lon: 140.372515</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3725154760001,35.94259193700003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0127</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 370㎡
+住所: 茨城県稲敷市福田字神明前1660
+lat: 35.944526, lon: 140.368716</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36871615100006,35.944525716000044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0128</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 366㎡
+住所: 茨城県稲敷市福田字神明前1675-3
+lat: 35.943624, lon: 140.367982</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36798198200006,35.94362401200004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0129</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 366㎡
+住所: 茨城県稲敷市福田字神明前1684
+lat: 35.944584, lon: 140.367981</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3679813000001,35.94458382400006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0130</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 363㎡
+住所: 茨城県稲敷市市崎字長作1628
+lat: 35.944827, lon: 140.371143</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.371143178,35.944827141000076,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0131</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 363㎡
+住所: 茨城県稲敷市福田字戸■1613
+lat: 35.943435, lon: 140.369583</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3695828230001,35.94343511000005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0132</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 363㎡
+住所: 茨城県稲敷市福田字神明前1688
+lat: 35.944971, lon: 140.367325</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36732540900005,35.94497100600006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0133</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 353㎡
+住所: 茨城県稲敷市福田字神明前1657
+lat: 35.944628, lon: 140.368337</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36833655700002,35.94462845700008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0134</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 350㎡
+住所: 茨城県稲敷市福田字大王前1543
+lat: 35.941573, lon: 140.372712</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3727122790001,35.94157275500004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0135</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 347㎡
+住所: 茨城県稲敷市福田字神明前1652
+lat: 35.945003, lon: 140.368629</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36862918000008,35.94500283000008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0136</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 340㎡
+住所: 茨城県稲敷市福田字薬師堂1326
+lat: 35.943442, lon: 140.367008</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3670075000001,35.94344179600006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0137</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 337㎡
+住所: 茨城県稲敷市福田字薬師堂1325
+lat: 35.943364, lon: 140.366972</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36697226400008,35.943364056000064,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0138</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 330㎡
+住所: 茨城県稲敷市福田字神明前1668
+lat: 35.943949, lon: 140.368567</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36856716900002,35.94394938800008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0139</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 330㎡
+住所: 茨城県稲敷市福田字神明前1669
+lat: 35.944024, lon: 140.368367</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3683673390001,35.94402448300008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0140</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 314㎡
+住所: 茨城県稲敷市福田字薬師堂1328-2
+lat: 35.943541, lon: 140.366972</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3669721660001,35.94354096300003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0141</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 300㎡
+住所: 茨城県稲敷市福田字戸■1601-2
+lat: 35.943987, lon: 140.370294</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3702941030001,35.943987443000026,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0142</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 297㎡
+住所: 茨城県稲敷市福田字神明前1672
+lat: 35.943731, lon: 140.368523</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3685225270001,35.943731126000046,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0143</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 294㎡
+住所: 茨城県稲敷市市崎字大道1603
+lat: 35.943402, lon: 140.369718</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36971811900003,35.94340151700004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0144</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 294㎡
+住所: 茨城県稲敷市福田字戸■1589
+lat: 35.943810, lon: 140.370688</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37068778000003,35.94381018000007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0145</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 294㎡
+住所: 茨城県稲敷市福田字神明前1663
+lat: 35.944485, lon: 140.368308</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36830784900008,35.94448454600007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0146</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 290㎡
+住所: 茨城県稲敷市神宮寺字西ノ作1324
+lat: 35.950275, lon: 140.369960</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36995996200005,35.95027479700008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0147</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 290㎡
+住所: 茨城県稲敷市福田字向らく1799-2
+lat: 35.944498, lon: 140.373935</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37393519300008,35.94449812100004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0148</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 281㎡
+住所: 茨城県稲敷市神宮寺字中道1373
+lat: 35.950861, lon: 140.372183</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37218335600005,35.95086142100007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0149</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 277㎡
+住所: 茨城県稲敷市福田字蔵増地1629
+lat: 35.944354, lon: 140.368835</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36883540500003,35.944353791000026,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0150</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 274㎡
+住所: 茨城県稲敷市神宮寺字やち山1202
+lat: 35.952944, lon: 140.369852</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36985172900006,35.95294351800004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0151</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 271㎡
+住所: 茨城県稲敷市福田字神明前1692-2
+lat: 35.945219, lon: 140.367430</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36743026300007,35.94521918300006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0152</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 267㎡
+住所: 茨城県稲敷市福田字戸■1601-1
+lat: 35.943968, lon: 140.370373</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37037277100012,35.94396819100007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0153</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 267㎡
+住所: 茨城県稲敷市福田字神明前1653
+lat: 35.944938, lon: 140.368482</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3684817740001,35.94493814400005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0154</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 264㎡
+住所: 茨城県稲敷市神宮寺字中寄合1266
+lat: 35.952314, lon: 140.371071</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3710706280001,35.952313994000065,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0155</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 261㎡
+住所: 茨城県稲敷市福田字八幡前1549
+lat: 35.942768, lon: 140.372288</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3722880360001,35.94276783400005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0156</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 257㎡
+住所: 茨城県稲敷市福田字戸■1591
+lat: 35.943817, lon: 140.370870</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37087014200006,35.94381728700006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0157</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 254㎡
+住所: 茨城県稲敷市福田字八幡前1579
+lat: 35.943173, lon: 140.370857</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37085666400003,35.94317294600006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0158</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 251㎡
+住所: 茨城県稲敷市福田字神明前1662
+lat: 35.944368, lon: 140.368558</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36855806000005,35.94436782900004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0159</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 244㎡
+住所: 茨城県稲敷市市崎字長作1607-2
+lat: 35.944520, lon: 140.370855</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.370854634,35.94452036800004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0160</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 244㎡
+住所: 茨城県稲敷市福田字神明前1670
+lat: 35.943853, lon: 140.368286</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36828555400007,35.94385326400004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0161</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 241㎡
+住所: 茨城県稲敷市福田字蔵増地1626-2
+lat: 35.944247, lon: 140.369052</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3690521100001,35.944246570000075,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0162</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 241㎡
+住所: 茨城県稲敷市福田字戸■1586
+lat: 35.943787, lon: 140.370169</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37016895800002,35.94378704800005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0163</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 241㎡
+住所: 茨城県稲敷市福田字神明前1673
+lat: 35.943723, lon: 140.368297</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.368296514,35.94372333200005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0164</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 238㎡
+住所: 茨城県稲敷市福田字神明前1654
+lat: 35.944875, lon: 140.368441</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36844088100008,35.94487515000003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0165</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 238㎡
+住所: 茨城県稲敷市福田字神明前1687
+lat: 35.944908, lon: 140.367291</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36729089800008,35.944907527000055,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0166</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 234㎡
+住所: 茨城県稲敷市福田字戸■1585
+lat: 35.943563, lon: 140.370089</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37008927700003,35.94356303500007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0167</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 234㎡
+住所: 茨城県稲敷市福田字戸■1592
+lat: 35.943960, lon: 140.370665</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3706653700001,35.94395958900003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0168</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 234㎡
+住所: 茨城県稲敷市福田字戸■1594
+lat: 35.944024, lon: 140.371001</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37100139300003,35.94402382000004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0169</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 234㎡
+住所: 茨城県稲敷市福田字戸■1614
+lat: 35.943459, lon: 140.369449</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36944872000004,35.94345895500004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0170</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 234㎡
+住所: 茨城県稲敷市福田字大道1343-2
+lat: 35.943200, lon: 140.368906</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3689058650001,35.94320007600004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0171</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 228㎡
+住所: 茨城県稲敷市福田字蔵増地1631
+lat: 35.944325, lon: 140.369081</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36908139700006,35.94432540400004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0172</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 224㎡
+住所: 茨城県稲敷市福田字向らく1806
+lat: 35.943709, lon: 140.374236</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37423634800007,35.943709255000044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0173</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 214㎡
+住所: 茨城県稲敷市市崎字中根1658
+lat: 35.943236, lon: 140.372396</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3723962460001,35.94323569900007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0174</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 213㎡
+住所: 茨城県稲敷市神宮寺字神明2577
+lat: 35.944910, lon: 140.368076</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36807576500007,35.944909936000045,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0175</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 211㎡
+住所: 茨城県稲敷市神宮寺字中道1369
+lat: 35.951315, lon: 140.372321</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37232117500002,35.951315229000045,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0176</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 211㎡
+住所: 茨城県稲敷市福田字向らく1810-5
+lat: 35.943725, lon: 140.374400</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37439954600006,35.94372462100006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0177</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 211㎡
+住所: 茨城県稲敷市福田字大道1341
+lat: 35.942985, lon: 140.368606</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3686062480001,35.942984884000055,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0178</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 208㎡
+住所: 茨城県稲敷市福田字戸■1590
+lat: 35.943657, lon: 140.370877</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37087721000012,35.94365661000006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0179</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 204㎡
+住所: 茨城県稲敷市福田字戸■1610
+lat: 35.943965, lon: 140.369680</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36967991200004,35.94396489600007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0180</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 201㎡
+住所: 茨城県稲敷市福田字神明前1656
+lat: 35.944740, lon: 140.368376</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36837554600004,35.94474029000003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0181</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 199㎡
+住所: 茨城県稲敷市神宮寺字西ノ作1302
+lat: 35.951437, lon: 140.370578</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37057758900005,35.95143688600007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0182</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 198㎡
+住所: 茨城県稲敷市福田字薬師堂1327
+lat: 35.943587, lon: 140.367183</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36718262700003,35.943586707000065,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0183</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 178㎡
+住所: 茨城県稲敷市市崎字中根1661
+lat: 35.942818, lon: 140.372599</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37259882700005,35.94281797100007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0184</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 175㎡
+住所: 茨城県稲敷市福田字神明前1655
+lat: 35.944815, lon: 140.368408</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3684078770001,35.94481522900003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0185</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 175㎡
+住所: 茨城県稲敷市福田字神明前1666
+lat: 35.944152, lon: 140.368387</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36838695200004,35.944152460000055,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0186</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 175㎡
+住所: 茨城県稲敷市福田字大道1337-2
+lat: 35.942981, lon: 140.368149</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36814881400005,35.94298084300004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0187</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 168㎡
+住所: 茨城県稲敷市福田字神明前1674-2
+lat: 35.943555, lon: 140.368588</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36858827700007,35.94355477100004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0188</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 155㎡
+住所: 茨城県稲敷市福田字蔵増地1624
+lat: 35.944099, lon: 140.369242</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36924227100008,35.94409880500007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0189</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 152㎡
+住所: 茨城県稲敷市福田字戸■1600
+lat: 35.943968, lon: 140.370495</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37049459600007,35.94396768100006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0190</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 152㎡
+住所: 茨城県稲敷市福田字神明前1665
+lat: 35.944231, lon: 140.368367</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36836744000004,35.94423128200003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0191</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 148㎡
+住所: 茨城県稲敷市福田字大道1332
+lat: 35.943427, lon: 140.367960</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.367959734,35.94342687000005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0192</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 145㎡
+住所: 茨城県稲敷市福田字蔵増地1625
+lat: 35.944220, lon: 140.369232</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36923195400004,35.944220263000034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0193</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 142㎡
+住所: 茨城県稲敷市福田字戸■1609
+lat: 35.944024, lon: 140.369556</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.3695561820001,35.94402364600006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0194</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 132㎡
+住所: 茨城県稲敷市福田字蔵増地1623
+lat: 35.944054, lon: 140.369378</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36937818,35.94405408200004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0195</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 132㎡
+住所: 茨城県稲敷市福田字大王前1536
+lat: 35.941498, lon: 140.373387</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37338674800003,35.94149764700006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0196</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 128㎡
+住所: 茨城県稲敷市市崎字大道1606
+lat: 35.942997, lon: 140.370574</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37057420500003,35.94299694700004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0197</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 125㎡
+住所: 茨城県稲敷市福田字向らく1816-1
+lat: 35.943184, lon: 140.374120</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.374119994,35.94318441400003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0198</name>
+        <description>候補スコア: 125.0
+候補理由: eMAFF:調査中; 既判定放棄地150m以内
+遊休農地フラグ: 調査中
+面積: 115㎡
+住所: 茨城県稲敷市福田字神明前1661
+lat: 35.944413, lon: 140.368653</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36865292200002,35.94441329000006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0199</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 2914㎡
+住所: 茨城県稲敷市神宮寺字寄合1336
+lat: 35.949186, lon: 140.370838</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.37083765300008,35.949185783000075,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0200</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 2676㎡
+住所: 茨城県稲敷市阿波字とうが谷津1660-1
+lat: 35.951441, lon: 140.368555</description>
+        <styleUrl>#medium</styleUrl>
+        <Point>
+          <coordinates>140.36855455800003,35.951441389000024,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>低優先 201-300</name>
+      <Placemark>
+        <name>B0201</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 2543㎡
+住所: 茨城県稲敷市神宮寺字神宮寺1677
+lat: 35.948447, lon: 140.369786</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36978645200008,35.94844684100008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0202</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 2473㎡
+住所: 茨城県稲敷市神宮寺字神宮寺1585
+lat: 35.949801, lon: 140.368246</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.3682457870001,35.94980147800004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0203</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 2439㎡
+住所: 茨城県稲敷市神宮寺字神宮寺1584
+lat: 35.950249, lon: 140.368164</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36816403900002,35.95024932900003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0204</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 2425㎡
+住所: 茨城県稲敷市神宮寺字神宮寺1589
+lat: 35.948857, lon: 140.368391</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36839136000003,35.948857445000044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0205</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 2367㎡
+住所: 茨城県稲敷市神宮寺字神宮寺1675
+lat: 35.948176, lon: 140.370019</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37001946500004,35.948175897000056,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0206</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 2295㎡
+住所: 茨城県稲敷市神宮寺字神宮寺1682
+lat: 35.948424, lon: 140.370999</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.370999191,35.94842359800003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0207</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 2286㎡
+住所: 茨城県稲敷市福田字石橋2908
+lat: 35.948133, lon: 140.371078</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.3710784000001,35.94813323500006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0208</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 2269㎡
+住所: 茨城県稲敷市神宮寺字神宮寺1586
+lat: 35.949425, lon: 140.368394</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36839390700004,35.949424589000046,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0209</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 2248㎡
+住所: 茨城県稲敷市神宮寺字神宮寺1680
+lat: 35.948766, lon: 140.370892</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37089197600005,35.94876638900007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0210</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 2044㎡
+住所: 茨城県稲敷市福田字前田2948
+lat: 35.941551, lon: 140.367215</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36721490700006,35.94155061500004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0211</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 2023㎡
+住所: 茨城県稲敷市福田字一本榎1526
+lat: 35.940698, lon: 140.374629</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37462934000007,35.940697820000025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0212</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 1940㎡
+住所: 茨城県稲敷市阿波字諏訪久保1653
+lat: 35.950728, lon: 140.373564</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37356353000007,35.950727967000034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0213</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 1884㎡
+住所: 茨城県稲敷市福田字大林1920-3
+lat: 35.941359, lon: 140.375168</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37516786700007,35.94135883000007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0214</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 1873㎡
+住所: 茨城県稲敷市神宮寺字やち山1213-1
+lat: 35.954323, lon: 140.370648</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37064811800008,35.95432279600004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0215</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 1852㎡
+住所: 茨城県稲敷市神宮寺字神宮寺1581
+lat: 35.950826, lon: 140.368151</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36815062100004,35.95082630400003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0216</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 1753㎡
+住所: 茨城県稲敷市阿波字阿波1585-2
+lat: 35.949598, lon: 140.372885</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.372884988,35.94959763900005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0217</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 1659㎡
+住所: 茨城県稲敷市神宮寺字神宮寺1582
+lat: 35.950596, lon: 140.368127</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36812688700002,35.95059556700005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0218</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 1590㎡
+住所: 茨城県稲敷市福田字石橋2906-2
+lat: 35.947907, lon: 140.370180</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37017971400007,35.947906749000026,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0219</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 1537㎡
+住所: 茨城県稲敷市福田字中根1747
+lat: 35.946105, lon: 140.374091</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37409139300007,35.946104966000064,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0220</name>
+        <description>候補スコア: 122.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 中大面積1500m2以上
+遊休農地フラグ: 調査中
+面積: 1516㎡
+住所: 茨城県稲敷市神宮寺字神宮寺1681
+lat: 35.948599, lon: 140.370966</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37096561600003,35.948599082000044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0221</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1479㎡
+住所: 茨城県稲敷市神宮寺字西ノ作1330
+lat: 35.949311, lon: 140.368991</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36899130900008,35.94931134400008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0222</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1447㎡
+住所: 茨城県稲敷市福田字中根1761
+lat: 35.945560, lon: 140.372937</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37293666100004,35.945560131000036,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0223</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1391㎡
+住所: 茨城県稲敷市神宮寺字椎木1231
+lat: 35.952658, lon: 140.372742</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37274224500004,35.95265795500006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0224</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1332㎡
+住所: 茨城県稲敷市市崎字長作1632
+lat: 35.944446, lon: 140.371752</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37175211200008,35.944445925000025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0225</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1302㎡
+住所: 茨城県稲敷市神宮寺字椎木1236
+lat: 35.953039, lon: 140.372222</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37222240800008,35.95303903000007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0226</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1268㎡
+住所: 茨城県稲敷市神宮寺字漆久保1033
+lat: 35.950065, lon: 140.366830</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36683036500006,35.95006526000003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0227</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1258㎡
+住所: 茨城県稲敷市阿波字諏訪久保1654-1
+lat: 35.950137, lon: 140.373004</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.3730035630001,35.95013729100003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0228</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1256㎡
+住所: 茨城県稲敷市市崎字長作1638
+lat: 35.945061, lon: 140.371895</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.371894676,35.94506086200005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0229</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1236㎡
+住所: 茨城県稲敷市神宮寺字東台53-2
+lat: 35.956173, lon: 140.374477</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37447748600005,35.95617348500008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0230</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1206㎡
+住所: 茨城県稲敷市阿波字阿波1583
+lat: 35.949140, lon: 140.372830</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37283036200006,35.94914036200004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0231</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1175㎡
+住所: 茨城県稲敷市神宮寺字漆久保1030
+lat: 35.950518, lon: 140.367447</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36744706000002,35.950517571000034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0232</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1168㎡
+住所: 茨城県稲敷市神宮寺字神宮寺1669
+lat: 35.948027, lon: 140.369111</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.3691114610001,35.94802724200008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0233</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1104㎡
+住所: 茨城県稲敷市神宮寺字大塚1025
+lat: 35.951304, lon: 140.367049</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36704859100007,35.95130405700007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0234</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1102㎡
+住所: 茨城県稲敷市神宮寺字面井905
+lat: 35.953553, lon: 140.368110</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36810960000003,35.95355310200006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0235</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1024㎡
+住所: 茨城県稲敷市福田字八幡後1779
+lat: 35.944656, lon: 140.372607</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37260661200003,35.944656389000045,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0236</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1014㎡
+住所: 茨城県稲敷市神宮寺字屋ち山1186
+lat: 35.951690, lon: 140.368745</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36874504000002,35.95168978400005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0237</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 1000㎡
+住所: 茨城県稲敷市神宮寺字神田1454
+lat: 35.950329, lon: 140.373406</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37340629800008,35.95032927700004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0238</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 997㎡
+住所: 茨城県稲敷市神宮寺字神宮寺1676
+lat: 35.948323, lon: 140.369924</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36992402700002,35.94832317400005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0239</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 938㎡
+住所: 茨城県稲敷市福田字八幡前1550
+lat: 35.942591, lon: 140.372037</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37203655000008,35.94259098900005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0240</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 925㎡
+住所: 茨城県稲敷市神宮寺字中寄合1252
+lat: 35.952513, lon: 140.372381</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.3723812500001,35.95251256700004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0241</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 919㎡
+住所: 茨城県稲敷市神宮寺字東台1-2
+lat: 35.957037, lon: 140.373265</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37326542200003,35.95703734800003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0242</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 902㎡
+住所: 茨城県稲敷市福田字杉の谷津1858
+lat: 35.944705, lon: 140.375528</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37552823300007,35.944705174000035,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0243</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 899㎡
+住所: 茨城県稲敷市福田字八幡後1780
+lat: 35.944656, lon: 140.372881</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37288067300005,35.94465638500003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0244</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 892㎡
+住所: 茨城県稲敷市福田字渡辺1857
+lat: 35.945003, lon: 140.375255</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37525486000004,35.94500344100004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0245</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 867㎡
+住所: 茨城県稲敷市福田字石橋2905
+lat: 35.947793, lon: 140.370385</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37038460300005,35.94779286500005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0246</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 865㎡
+住所: 茨城県稲敷市神宮寺字中道1407
+lat: 35.952482, lon: 140.373027</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.3730270860001,35.95248249400004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0247</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 842㎡
+住所: 茨城県稲敷市福田字渡辺1850
+lat: 35.944345, lon: 140.375237</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.375236652,35.94434545300004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0248</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 836㎡
+住所: 茨城県稲敷市福田字薬師堂1322
+lat: 35.943149, lon: 140.366892</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36689215700005,35.94314925000003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0249</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 819㎡
+住所: 茨城県稲敷市神宮寺字屋ち山1187
+lat: 35.952005, lon: 140.368880</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.368880428,35.952005271000075,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0250</name>
+        <description>候補スコア: 116.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内; 面積800m2以上
+遊休農地フラグ: 調査中
+面積: 809㎡
+住所: 茨城県稲敷市市崎字長作1618-1
+lat: 35.945373, lon: 140.371193</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37119341800008,35.94537273200007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0251</name>
+        <description>候補スコア: 115.0
+候補理由: eMAFF:調査中; 既判定放棄地600m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 5073㎡
+住所: 茨城県稲敷市阿波字阿波1589
+lat: 35.948036, lon: 140.373369</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37336886800006,35.94803554900005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0252</name>
+        <description>候補スコア: 115.0
+候補理由: eMAFF:調査中; 既判定放棄地600m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 5015㎡
+住所: 茨城県稲敷市神宮寺字宮下301-2
+lat: 35.959545, lon: 140.369298</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.3692977610001,35.95954492100003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0253</name>
+        <description>候補スコア: 115.0
+候補理由: eMAFF:調査中; 既判定放棄地600m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 4847㎡
+住所: 茨城県稲敷市神宮寺字神宮寺1548
+lat: 35.946681, lon: 140.366732</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.3667317710001,35.94668076900007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0254</name>
+        <description>候補スコア: 115.0
+候補理由: eMAFF:調査中; 既判定放棄地600m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 4163㎡
+住所: 茨城県稲敷市神宮寺字宮下301-1
+lat: 35.959332, lon: 140.368769</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36876863100008,35.95933184200004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0255</name>
+        <description>候補スコア: 115.0
+候補理由: eMAFF:調査中; 既判定放棄地600m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 3800㎡
+住所: 茨城県稲敷市福田字石橋2917
+lat: 35.948101, lon: 140.372191</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37219108300008,35.948101172000065,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0256</name>
+        <description>候補スコア: 115.0
+候補理由: eMAFF:調査中; 既判定放棄地600m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 3741㎡
+住所: 茨城県稲敷市神宮寺字神宮寺1549
+lat: 35.946766, lon: 140.367243</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36724260800008,35.94676573800007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0257</name>
+        <description>候補スコア: 115.0
+候補理由: eMAFF:調査中; 既判定放棄地600m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 3624㎡
+住所: 茨城県稲敷市神宮寺字平松277
+lat: 35.959820, lon: 140.371227</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37122658300007,35.95981972300007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0258</name>
+        <description>候補スコア: 115.0
+候補理由: eMAFF:調査中; 既判定放棄地600m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 3427㎡
+住所: 茨城県稲敷市阿波字阿波1662
+lat: 35.948113, lon: 140.375681</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37568094300002,35.948113308000075,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0259</name>
+        <description>候補スコア: 115.0
+候補理由: eMAFF:調査中; 既判定放棄地600m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 3383㎡
+住所: 茨城県稲敷市神宮寺字神田1462
+lat: 35.949522, lon: 140.375466</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37546567700008,35.94952213100004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0260</name>
+        <description>候補スコア: 115.0
+候補理由: eMAFF:調査中; 既判定放棄地600m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 3175㎡
+住所: 茨城県稲敷市福田字前田2968
+lat: 35.940961, lon: 140.367060</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36706017300003,35.94096095800006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0261</name>
+        <description>候補スコア: 115.0
+候補理由: eMAFF:調査中; 既判定放棄地600m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 3142㎡
+住所: 茨城県稲敷市阿波字阿波1666
+lat: 35.948110, lon: 140.376756</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37675574500008,35.94810966600005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0262</name>
+        <description>候補スコア: 115.0
+候補理由: eMAFF:調査中; 既判定放棄地600m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 3100㎡
+住所: 茨城県稲敷市福田字前田2961
+lat: 35.941012, lon: 140.367854</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36785387500004,35.94101241900006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0263</name>
+        <description>候補スコア: 115.0
+候補理由: eMAFF:調査中; 既判定放棄地600m以内; 大面積3000m2以上
+遊休農地フラグ: 調査中
+面積: 3036㎡
+住所: 茨城県稲敷市神宮寺字神宮寺1554
+lat: 35.947135, lon: 140.368550</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36855021200006,35.947134848000076,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0264</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 796㎡
+住所: 茨城県稲敷市福田字中根1753
+lat: 35.945581, lon: 140.373860</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37386008300007,35.94558092200003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0265</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 791㎡
+住所: 茨城県稲敷市神宮寺字前山887-1
+lat: 35.953423, lon: 140.369776</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36977641900012,35.95342250400006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0266</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 786㎡
+住所: 茨城県稲敷市福田字蔵増地1641
+lat: 35.945783, lon: 140.369399</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36939907600004,35.94578271000006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0267</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 782㎡
+住所: 茨城県稲敷市神宮寺字大道996
+lat: 35.950462, lon: 140.366794</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36679398100011,35.950462334000065,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0268</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 763㎡
+住所: 茨城県稲敷市神宮寺字屋ち山1191
+lat: 35.952532, lon: 140.368933</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36893266200002,35.95253194600008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0269</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 757㎡
+住所: 茨城県稲敷市福田字八幡前1573-1
+lat: 35.943635, lon: 140.371764</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.3717636550001,35.94363466900006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0270</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 730㎡
+住所: 茨城県稲敷市福田字八幡前1562
+lat: 35.943154, lon: 140.371900</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37189958700003,35.94315422100004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0271</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 730㎡
+住所: 茨城県稲敷市福田字向らく1786
+lat: 35.945310, lon: 140.374215</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37421463500004,35.94530984600004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0272</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 720㎡
+住所: 茨城県稲敷市福田字■々田1420
+lat: 35.941053, lon: 140.370273</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37027308900008,35.94105336000007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0273</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 700㎡
+住所: 茨城県稲敷市神宮寺字前山881
+lat: 35.954068, lon: 140.370191</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37019097200005,35.95406758900003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0274</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 694㎡
+住所: 茨城県稲敷市神宮寺字漆久保1029
+lat: 35.950688, lon: 140.367631</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.3676308360001,35.95068816000003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0275</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 687㎡
+住所: 茨城県稲敷市市崎字■々田前1691
+lat: 35.940824, lon: 140.369918</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36991810900008,35.94082395400005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0276</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 674㎡
+住所: 茨城県稲敷市福田字蔵増地1640
+lat: 35.945604, lon: 140.369486</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.3694858570001,35.94560448300007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0277</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 674㎡
+住所: 茨城県稲敷市福田字蔵増地1642
+lat: 35.945960, lon: 140.369329</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.3693285060001,35.94596047700003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0278</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 671㎡
+住所: 茨城県稲敷市福田字中根1755
+lat: 35.945281, lon: 140.373616</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.3736160510001,35.94528085600007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0279</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 667㎡
+住所: 茨城県稲敷市神宮寺字東台11-1
+lat: 35.956729, lon: 140.374188</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37418823500002,35.95672881200005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0280</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 662㎡
+住所: 茨城県稲敷市福田字前田2949
+lat: 35.941542, lon: 140.367447</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.3674469240001,35.94154173900006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0281</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 661㎡
+住所: 茨城県稲敷市福田字蔵増地1639
+lat: 35.945424, lon: 140.369564</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36956416400005,35.945423654000024,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0282</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 654㎡
+住所: 茨城県稲敷市福田字八幡前1577
+lat: 35.942904, lon: 140.371226</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.3712258170001,35.94290359400003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0283</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 644㎡
+住所: 茨城県稲敷市阿波字阿波1584
+lat: 35.949330, lon: 140.372819</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37281913000004,35.94932984400003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0284</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 644㎡
+住所: 茨城県稲敷市神宮寺字面井902
+lat: 35.952654, lon: 140.368765</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36876533400005,35.952654006000046,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0285</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 640㎡
+住所: 茨城県稲敷市神宮寺字道下181-3
+lat: 35.959594, lon: 140.372379</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37237920500002,35.95959421200007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0286</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 636㎡
+住所: 茨城県稲敷市神宮寺字中道1408
+lat: 35.952497, lon: 140.373281</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37328053800002,35.95249682000008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0287</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 631㎡
+住所: 茨城県稲敷市神宮寺字長作2478
+lat: 35.945821, lon: 140.373729</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37372938700003,35.945820996000066,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0288</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 630㎡
+住所: 茨城県稲敷市福田字前田2950
+lat: 35.941537, lon: 140.367564</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36756379000008,35.94153739500007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0289</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 621㎡
+住所: 茨城県稲敷市福田字久保台1396
+lat: 35.941870, lon: 140.370222</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37022228900003,35.941870237000046,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0290</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 621㎡
+住所: 茨城県稲敷市福田字大道1352-1
+lat: 35.942570, lon: 140.368354</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.3683543740001,35.942570155000055,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0291</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 619㎡
+住所: 茨城県稲敷市神宮寺字道下183
+lat: 35.959791, lon: 140.372229</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.372228532,35.959791188000054,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0292</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 611㎡
+住所: 茨城県稲敷市市崎字■々田前1692
+lat: 35.940739, lon: 140.369843</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.36984294900003,35.940739145000066,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0293</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 567㎡
+住所: 茨城県稲敷市神宮寺字中道1409-3
+lat: 35.952485, lon: 140.373495</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37349531600012,35.952484850000076,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0294</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 565㎡
+住所: 茨城県稲敷市市崎字長作1626
+lat: 35.944901, lon: 140.371377</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37137703400003,35.94490069300008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0295</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 563㎡
+住所: 茨城県稲敷市神宮寺字東台44
+lat: 35.955718, lon: 140.373881</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37388074400008,35.955717556000025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0296</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 555㎡
+住所: 茨城県稲敷市福田字渡辺1855
+lat: 35.945253, lon: 140.374806</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37480593700002,35.94525282300003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0297</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 555㎡
+住所: 茨城県稲敷市福田字八幡前1563
+lat: 35.943264, lon: 140.371957</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37195724900005,35.94326438500008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0298</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 555㎡
+住所: 茨城県稲敷市福田字八幡前1572
+lat: 35.943893, lon: 140.371887</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.37188744600007,35.94389315400008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0299</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 555㎡
+住所: 茨城県稲敷市福田字向らく1784
+lat: 35.944877, lon: 140.373780</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.3737803460001,35.94487650700006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B0300</name>
+        <description>候補スコア: 110.0
+候補理由: eMAFF:調査中; 既判定放棄地300m以内
+遊休農地フラグ: 調査中
+面積: 548㎡
+住所: 茨城県稲敷市市崎字長作1625
+lat: 35.944699, lon: 140.371539</description>
+        <styleUrl>#low</styleUrl>
+        <Point>
+          <coordinates>140.3715387190001,35.94469934400007,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -35,13 +35,13 @@ def compute_iou(y_true: np.ndarray, y_pred: np.ndarray) -> float:
     return float(tp / union) if union > 0 else 0.0
 
 
-def align_clusters_to_rice(labels, y_true, k):
-    """水田比率が最も高いクラスタを水田クラスタとする"""
-    rice_ratio = np.array(
-        [y_true[labels == c].mean() if (labels == c).any() else 0.0
+def identify_rice_cluster(labels, X_raw, k, vh_min_idx=0):
+    """VH_minの平均が最小のクラスタを水田クラスタとする（教師データ不要）"""
+    vh_min_mean = np.array(
+        [X_raw[labels == c, vh_min_idx].mean() if (labels == c).any() else np.inf
          for c in range(k)]
     )
-    best_cluster = int(np.argmax(rice_ratio))
+    best_cluster = int(np.argmin(vh_min_mean))
     return (labels == best_cluster).astype(int)
 
 
@@ -72,7 +72,7 @@ def run_region(name: str, csv_path: str):
     cluster_labels = kmeans.fit_predict(X_scaled)
 
     # 精度計算
-    y_pred = align_clusters_to_rice(cluster_labels, y_true, K)
+    y_pred = identify_rice_cluster(cluster_labels, X, K)
     acc = accuracy_score(y_true, y_pred)
     iou = compute_iou(y_true, y_pred)
     cm = confusion_matrix(y_true, y_pred)

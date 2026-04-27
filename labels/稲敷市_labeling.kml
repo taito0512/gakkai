@@ -1,0 +1,3017 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>教師データ作成 - 稲敷市</name>
+    <Style id="pin">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>畑</name>
+      <Placemark>
+        <name>0001</name>
+        <description>遊休農地: 調査中
+面積: 117㎡
+住所: 茨城県稲敷市阿波字青木久保1358</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.381406,35.954305,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0004</name>
+        <description>遊休農地: 調査中
+面積: 100㎡
+住所: 茨城県稲敷市阿波字阿波41</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.391948,35.954755,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0007</name>
+        <description>遊休農地: 調査中
+面積: 334㎡
+住所: 茨城県稲敷市阿波字阿波44</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.390554,35.953802,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0008</name>
+        <description>遊休農地: 調査中
+面積: 320㎡
+住所: 茨城県稲敷市阿波字阿波304-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.390256,35.953779,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0012</name>
+        <description>遊休農地: 調査中
+面積: 345㎡
+住所: 茨城県稲敷市阿波字阿波1689</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.380445,35.950591,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0020</name>
+        <description>遊休農地: 調査中
+面積: 99㎡
+住所: 茨城県稲敷市阿波字阿波峯1061-3</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.380591,35.955034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0022</name>
+        <description>遊休農地: 調査中
+面積: 730㎡
+住所: 茨城県稲敷市阿波字阿波峯1114-6</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.380251,35.954931,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0028</name>
+        <description>遊休農地: 調査中
+面積: 514㎡
+住所: 茨城県稲敷市阿波字一本松1288-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.376074,35.951633,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0033</name>
+        <description>遊休農地: 調査中
+面積: 462㎡
+住所: 茨城県稲敷市阿波字一本松1645</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.376543,35.951549,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0045</name>
+        <description>遊休農地: 調査中
+面積: 166㎡
+住所: 茨城県稲敷市阿波字海浦571</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.390174,35.954312,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0047</name>
+        <description>遊休農地: 調査中
+面積: 176㎡
+住所: 茨城県稲敷市阿波字上久保1517-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.382566,35.951007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0049</name>
+        <description>遊休農地: 調査中
+面積: 598㎡
+住所: 茨城県稲敷市阿波字腰巻1549-3</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.382586,35.948668,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0052</name>
+        <description>遊休農地: 調査中
+面積: 253㎡
+住所: 茨城県稲敷市阿波字神田1474</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.380754,35.950860,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0058</name>
+        <description>遊休農地: 調査中
+面積: 224㎡
+住所: 茨城県稲敷市阿波字諏訪久保1265</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373529,35.953578,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0060</name>
+        <description>遊休農地: 調査中
+面積: 1280㎡
+住所: 茨城県稲敷市阿波字諏訪平1266-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373593,35.953403,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0061</name>
+        <description>遊休農地: 調査中
+面積: 1066㎡
+住所: 茨城県稲敷市阿波字諏訪平1267</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373941,35.953180,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0062</name>
+        <description>遊休農地: 調査中
+面積: 2557㎡
+住所: 茨城県稲敷市阿波字諏訪平1269</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.374221,35.953378,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0066</name>
+        <description>遊休農地: 調査中
+面積: 3503㎡
+住所: 茨城県稲敷市阿波字戸城台1558</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.381479,35.949692,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0068</name>
+        <description>遊休農地: 調査中
+面積: 1013㎡
+住所: 茨城県稲敷市阿波字戸城台1565</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.381381,35.949104,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0070</name>
+        <description>遊休農地: 調査中
+面積: 423㎡
+住所: 茨城県稲敷市阿波字戸城台1568</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.381774,35.949237,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0071</name>
+        <description>遊休農地: 調査中
+面積: 322㎡
+住所: 茨城県稲敷市阿波字長手848</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.384495,35.951256,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0072</name>
+        <description>遊休農地: 調査中
+面積: 190㎡
+住所: 茨城県稲敷市阿波字長手850</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.384301,35.951263,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0073</name>
+        <description>遊休農地: 調査中
+面積: 62㎡
+住所: 茨城県稲敷市阿波字長手856-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.384498,35.950850,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0074</name>
+        <description>遊休農地: 調査中
+面積: 309㎡
+住所: 茨城県稲敷市阿波字長手859</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.384429,35.951082,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0081</name>
+        <description>遊休農地: 調査中
+面積: 550㎡
+住所: 茨城県稲敷市阿波字西久保1428</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.377784,35.951937,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0082</name>
+        <description>遊休農地: 調査中
+面積: 436㎡
+住所: 茨城県稲敷市阿波字西久保1429</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.378061,35.951941,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0088</name>
+        <description>遊休農地: 調査中
+面積: 324㎡
+住所: 茨城県稲敷市阿波字西久保1437</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.378329,35.951176,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0094</name>
+        <description>遊休農地: 調査中
+面積: 84㎡
+住所: 茨城県稲敷市阿波字二反田868</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.384740,35.950661,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0095</name>
+        <description>遊休農地: 調査中
+面積: 450㎡
+住所: 茨城県稲敷市阿波字二反田869</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.384823,35.950417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0097</name>
+        <description>遊休農地: 調査中
+面積: 141㎡
+住所: 茨城県稲敷市阿波字二反田871-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.385010,35.950224,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0100</name>
+        <description>遊休農地: 調査中
+面積: 1932㎡
+住所: 茨城県稲敷市阿波字不動台1209</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.376770,35.954752,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0104</name>
+        <description>遊休農地: 調査中
+面積: 188㎡
+住所: 茨城県稲敷市阿波字不動台1223</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.376014,35.954544,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0105</name>
+        <description>遊休農地: 調査中
+面積: 518㎡
+住所: 茨城県稲敷市阿波字不動台1225</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.376235,35.954339,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0109</name>
+        <description>遊休農地: 調査中
+面積: 205㎡
+住所: 茨城県稲敷市阿波字不動台1230</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.376162,35.954691,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0113</name>
+        <description>遊休農地: 調査中
+面積: 317㎡
+住所: 茨城県稲敷市阿波字古楯1242</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373924,35.955589,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0115</name>
+        <description>遊休農地: 調査中
+面積: 412㎡
+住所: 茨城県稲敷市阿波字古屋敷1470</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.380127,35.950641,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0118</name>
+        <description>遊休農地: 調査中
+面積: 13㎡
+住所: 茨城県稲敷市阿波字前久保1316-3</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.379061,35.953200,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0124</name>
+        <description>遊休農地: 調査中
+面積: 25㎡
+住所: 茨城県稲敷市阿波字前窪1407-3</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.379161,35.952791,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0128</name>
+        <description>遊休農地: 調査中
+面積: 627㎡
+住所: 茨城県稲敷市阿波字南の下1617</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.379875,35.950399,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0129</name>
+        <description>遊休農地: 調査中
+面積: 350㎡
+住所: 茨城県稲敷市阿波字峯の根411-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.390752,35.953954,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0132</name>
+        <description>遊休農地: 調査中
+面積: 257㎡
+住所: 茨城県稲敷市阿波字峯の根480</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.392358,35.955358,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0136</name>
+        <description>遊休農地: 調査中
+面積: 2635㎡
+住所: 茨城県稲敷市阿波字■貝802</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.385425,35.949404,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0142</name>
+        <description>遊休農地: 調査中
+面積: 271㎡
+住所: 茨城県稲敷市阿波字■貝834-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.383238,35.950646,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0143</name>
+        <description>遊休農地: 調査中
+面積: 686㎡
+住所: 茨城県稲敷市神宮寺字一本松1470</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.376462,35.951343,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0147</name>
+        <description>遊休農地: 調査中
+面積: 1553㎡
+住所: 茨城県稲敷市神宮寺字漆久保1031</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367098,35.950309,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0157</name>
+        <description>遊休農地: 調査中
+面積: 482㎡
+住所: 茨城県稲敷市神宮寺字大塚1012</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367779,35.951707,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0160</name>
+        <description>遊休農地: 調査中
+面積: 730㎡
+住所: 茨城県稲敷市神宮寺字大塚1026</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367317,35.951184,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0162</name>
+        <description>遊休農地: 調査中
+面積: 664㎡
+住所: 茨城県稲敷市神宮寺字大塚1028</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367591,35.950971,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0164</name>
+        <description>遊休農地: 調査中
+面積: 450㎡
+住所: 茨城県稲敷市神宮寺字椎木1227-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373054,35.953205,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0166</name>
+        <description>遊休農地: 調査中
+面積: 1273㎡
+住所: 茨城県稲敷市神宮寺字椎木1234-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372685,35.953254,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0167</name>
+        <description>遊休農地: 調査中
+面積: 440㎡
+住所: 茨城県稲敷市神宮寺字椎木1234-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372860,35.953393,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0168</name>
+        <description>遊休農地: 調査中
+面積: 594㎡
+住所: 茨城県稲敷市神宮寺字椎木1235</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372516,35.952990,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0170</name>
+        <description>遊休農地: 調査中
+面積: 1258㎡
+住所: 茨城県稲敷市神宮寺字十三塚2265</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368738,35.960345,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0176</name>
+        <description>遊休農地: 調査中
+面積: 847㎡
+住所: 茨城県稲敷市神宮寺字神田1455-9</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373875,35.949479,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0179</name>
+        <description>遊休農地: 調査中
+面積: 42㎡
+住所: 茨城県稲敷市神宮寺字神田1457-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.375951,35.951237,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0183</name>
+        <description>遊休農地: 調査中
+面積: 832㎡
+住所: 茨城県稲敷市神宮寺字神田1468-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.376471,35.950770,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0192</name>
+        <description>遊休農地: 調査中
+面積: 418㎡
+住所: 茨城県稲敷市神宮寺字神明2576</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368000,35.944684,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0195</name>
+        <description>遊休農地: 調査中
+面積: 406㎡
+住所: 茨城県稲敷市神宮寺字外馬場342-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368615,35.957821,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0197</name>
+        <description>遊休農地: 調査中
+面積: 836㎡
+住所: 茨城県稲敷市神宮寺字外馬場347</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368537,35.957489,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0204</name>
+        <description>遊休農地: 調査中
+面積: 456㎡
+住所: 茨城県稲敷市神宮寺字外馬場359</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367761,35.957081,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0206</name>
+        <description>遊休農地: 調査中
+面積: 1354㎡
+住所: 茨城県稲敷市神宮寺字外馬場361</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368357,35.956976,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0210</name>
+        <description>遊休農地: 調査中
+面積: 798㎡
+住所: 茨城県稲敷市神宮寺字外馬場383</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367477,35.957966,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0215</name>
+        <description>遊休農地: 調査中
+面積: 907㎡
+住所: 茨城県稲敷市神宮寺字外馬場407</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.366713,35.957832,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0217</name>
+        <description>遊休農地: 調査中
+面積: 856㎡
+住所: 茨城県稲敷市神宮寺字外馬場410</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367064,35.957792,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0218</name>
+        <description>遊休農地: 調査中
+面積: 691㎡
+住所: 茨城県稲敷市神宮寺字外馬場411-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.366875,35.957438,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0220</name>
+        <description>遊休農地: 調査中
+面積: 743㎡
+住所: 茨城県稲敷市神宮寺字外馬場825</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.366834,35.955781,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0221</name>
+        <description>遊休農地: 調査中
+面積: 578㎡
+住所: 茨城県稲敷市神宮寺字天神下2386</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.379166,35.954866,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0224</name>
+        <description>遊休農地: 調査中
+面積: 891㎡
+住所: 茨城県稲敷市神宮寺字天神下2389</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.380084,35.955067,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0225</name>
+        <description>遊休農地: 調査中
+面積: 1132㎡
+住所: 茨城県稲敷市神宮寺字とうか下1437</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372101,35.949904,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0226</name>
+        <description>遊休農地: 調査中
+面積: 383㎡
+住所: 茨城県稲敷市神宮寺字とうか下1441</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.371527,35.949537,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0229</name>
+        <description>遊休農地: 調査中
+面積: 3089㎡
+住所: 茨城県稲敷市神宮寺字堂城向2398-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.380224,35.953938,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0231</name>
+        <description>遊休農地: 調査中
+面積: 1552㎡
+住所: 茨城県稲敷市神宮寺字長作2477</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373480,35.946064,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0234</name>
+        <description>遊休農地: 調査中
+面積: 981㎡
+住所: 茨城県稲敷市神宮寺字中沢2214-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367971,35.963231,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0235</name>
+        <description>遊休農地: 調査中
+面積: 1136㎡
+住所: 茨城県稲敷市神宮寺字中沢2215-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367864,35.963034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0236</name>
+        <description>遊休農地: 調査中
+面積: 162㎡
+住所: 茨城県稲敷市神宮寺字長手2416</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.384353,35.951115,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0239</name>
+        <description>遊休農地: 調査中
+面積: 260㎡
+住所: 茨城県稲敷市神宮寺字長堀123</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.371503,35.956497,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0244</name>
+        <description>遊休農地: 調査中
+面積: 196㎡
+住所: 茨城県稲敷市神宮寺字中道1372</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372090,35.950701,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0246</name>
+        <description>遊休農地: 調査中
+面積: 471㎡
+住所: 茨城県稲敷市神宮寺字中道1374</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372320,35.950794,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0247</name>
+        <description>遊休農地: 調査中
+面積: 292㎡
+住所: 茨城県稲敷市神宮寺字中道1375-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372560,35.950891,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0249</name>
+        <description>遊休農地: 調査中
+面積: 435㎡
+住所: 茨城県稲敷市神宮寺字中道1376</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372374,35.951002,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0251</name>
+        <description>遊休農地: 調査中
+面積: 101㎡
+住所: 茨城県稲敷市神宮寺字中道1388</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372836,35.951403,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0253</name>
+        <description>遊休農地: 調査中
+面積: 807㎡
+住所: 茨城県稲敷市神宮寺字中道1398</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373213,35.951837,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0254</name>
+        <description>遊休農地: 調査中
+面積: 1242㎡
+住所: 茨城県稲敷市神宮寺字中道1406</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373002,35.952168,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0258</name>
+        <description>遊休農地: 調査中
+面積: 269㎡
+住所: 茨城県稲敷市神宮寺字中道1415</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.374248,35.951534,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0270</name>
+        <description>遊休農地: 調査中
+面積: 656㎡
+住所: 茨城県稲敷市神宮寺字中寄合1281</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370788,35.952050,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0271</name>
+        <description>遊休農地: 調査中
+面積: 382㎡
+住所: 茨城県稲敷市神宮寺字中寄合1282</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370886,35.951884,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0272</name>
+        <description>遊休農地: 調査中
+面積: 328㎡
+住所: 茨城県稲敷市神宮寺字中寄合1286</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.371271,35.951533,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0274</name>
+        <description>遊休農地: 調査中
+面積: 550㎡
+住所: 茨城県稲敷市神宮寺字西ノ作1292</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370795,35.951374,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0275</name>
+        <description>遊休農地: 調査中
+面積: 512㎡
+住所: 茨城県稲敷市神宮寺字西ノ作1296</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370125,35.950689,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0277</name>
+        <description>遊休農地: 調査中
+面積: 702㎡
+住所: 茨城県稲敷市神宮寺字西ノ作1298</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370058,35.950464,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0285</name>
+        <description>遊休農地: 調査中
+面積: 566㎡
+住所: 茨城県稲敷市神宮寺字西ノ作1327-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.369785,35.949842,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0286</name>
+        <description>遊休農地: 調査中
+面積: 339㎡
+住所: 茨城県稲敷市神宮寺字野口957</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.366764,35.951731,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0297</name>
+        <description>遊休農地: 調査中
+面積: 470㎡
+住所: 茨城県稲敷市神宮寺字馬場尻505-4</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.366953,35.956193,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0301</name>
+        <description>遊休農地: 調査中
+面積: 280㎡
+住所: 茨城県稲敷市神宮寺字馬場尻505-22</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367797,35.956501,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0306</name>
+        <description>遊休農地: 調査中
+面積: 137㎡
+住所: 茨城県稲敷市神宮寺字馬場尻506-12</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367477,35.956198,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0315</name>
+        <description>遊休農地: 調査中
+面積: 161㎡
+住所: 茨城県稲敷市神宮寺字東台34</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.374317,35.955447,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0320</name>
+        <description>遊休農地: 調査中
+面積: 1855㎡
+住所: 茨城県稲敷市神宮寺字東台52</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373670,35.956394,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0323</name>
+        <description>遊休農地: 調査中
+面積: 2479㎡
+住所: 茨城県稲敷市神宮寺字東台221-3</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.374844,35.958129,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0324</name>
+        <description>遊休農地: 調査中
+面積: 515㎡
+住所: 茨城県稲敷市神宮寺字平松271-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.371766,35.960896,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0332</name>
+        <description>遊休農地: 調査中
+面積: 5536㎡
+住所: 茨城県稲敷市神宮寺字平松286-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370402,35.959886,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0333</name>
+        <description>遊休農地: 調査中
+面積: 1000㎡
+住所: 茨城県稲敷市神宮寺字平松286-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370519,35.960240,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0339</name>
+        <description>遊休農地: 調査中
+面積: 3403㎡
+住所: 茨城県稲敷市神宮寺字前原87-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372858,35.954596,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0345</name>
+        <description>遊休農地: 調査中
+面積: 1291㎡
+住所: 茨城県稲敷市神宮寺字前原98</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372240,35.953841,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0347</name>
+        <description>遊休農地: 調査中
+面積: 121㎡
+住所: 茨城県稲敷市神宮寺字前原100-3</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372028,35.954271,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0349</name>
+        <description>遊休農地: 調査中
+面積: 560㎡
+住所: 茨城県稲敷市神宮寺字前原101-3</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372429,35.954565,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0353</name>
+        <description>遊休農地: 調査中
+面積: 19㎡
+住所: 茨城県稲敷市神宮寺字前原106-3</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.371505,35.954945,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0363</name>
+        <description>遊休農地: 調査中
+面積: 1135㎡
+住所: 茨城県稲敷市神宮寺字道下181-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372550,35.959283,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0364</name>
+        <description>遊休農地: 調査中
+面積: 817㎡
+住所: 茨城県稲敷市神宮寺字道下181-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372153,35.959493,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0368</name>
+        <description>遊休農地: 調査中
+面積: 915㎡
+住所: 茨城県稲敷市神宮寺字道向829-5</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368456,35.955370,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0371</name>
+        <description>遊休農地: 調査中
+面積: 762㎡
+住所: 茨城県稲敷市神宮寺字道向829-11</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367116,35.955903,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0372</name>
+        <description>遊休農地: 調査中
+面積: 515㎡
+住所: 茨城県稲敷市神宮寺字道向829-12</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367383,35.955773,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0374</name>
+        <description>遊休農地: 調査中
+面積: 36㎡
+住所: 茨城県稲敷市神宮寺字道向829-14</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367944,35.955099,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0380</name>
+        <description>遊休農地: 調査中
+面積: 359㎡
+住所: 茨城県稲敷市神宮寺字南後1477</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.377439,35.951671,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0383</name>
+        <description>遊休農地: 調査中
+面積: 1115㎡
+住所: 茨城県稲敷市神宮寺字南後1481</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.377216,35.951064,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0388</name>
+        <description>遊休農地: 調査中
+面積: 1109㎡
+住所: 茨城県稲敷市神宮寺字宮下305</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.369364,35.959005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0389</name>
+        <description>遊休農地: 調査中
+面積: 270㎡
+住所: 茨城県稲敷市神宮寺字宮下306-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.369008,35.958793,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0390</name>
+        <description>遊休農地: 調査中
+面積: 1345㎡
+住所: 茨城県稲敷市神宮寺字宮下307-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368967,35.958509,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0391</name>
+        <description>遊休農地: 調査中
+面積: 732㎡
+住所: 茨城県稲敷市神宮寺字宮下309-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368856,35.958962,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0395</name>
+        <description>遊休農地: 調査中
+面積: 664㎡
+住所: 茨城県稲敷市神宮寺字宮下315</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367995,35.958366,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0406</name>
+        <description>遊休農地: 調査中
+面積: 240㎡
+住所: 茨城県稲敷市四箇字井金2644-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.397806,35.963590,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0409</name>
+        <description>遊休農地: 調査中
+面積: 340㎡
+住所: 茨城県稲敷市四箇字大室1215</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.384988,35.959979,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0411</name>
+        <description>遊休農地: 調査中
+面積: 1639㎡
+住所: 茨城県稲敷市四箇字大室1218</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.385124,35.960113,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0417</name>
+        <description>遊休農地: 調査中
+面積: 270㎡
+住所: 茨城県稲敷市四箇字大室1228-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.385769,35.960491,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0430</name>
+        <description>遊休農地: 調査中
+面積: 8.83㎡
+住所: 茨城県稲敷市四箇字上池下1066</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.383726,35.959150,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0433</name>
+        <description>遊休農地: 調査中
+面積: 184㎡
+住所: 茨城県稲敷市四箇字来畑1314</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.385913,35.961213,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0434</name>
+        <description>遊休農地: 調査中
+面積: 1183㎡
+住所: 茨城県稲敷市四箇字来栖1313</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.386125,35.961372,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0439</name>
+        <description>遊休農地: 調査中
+面積: 811㎡
+住所: 茨城県稲敷市四箇字酒井1389</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.386711,35.963911,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0442</name>
+        <description>遊休農地: 調査中
+面積: 1017㎡
+住所: 茨城県稲敷市四箇字酒井1739</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.387392,35.963271,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0446</name>
+        <description>遊休農地: 調査中
+面積: 103㎡
+住所: 茨城県稲敷市四箇字四箇63</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.388997,35.960404,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0449</name>
+        <description>遊休農地: 調査中
+面積: 1418㎡
+住所: 茨城県稲敷市四箇字四箇123</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.392242,35.956234,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0458</name>
+        <description>遊休農地: 調査中
+面積: 122㎡
+住所: 茨城県稲敷市四箇字西ノ久保1169-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.384053,35.961433,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0460</name>
+        <description>遊休農地: 調査中
+面積: 460㎡
+住所: 茨城県稲敷市四箇字西ノ久保1182-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.384682,35.960738,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0463</name>
+        <description>遊休農地: 調査中
+面積: 336㎡
+住所: 茨城県稲敷市四箇字西ノ前1209</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.384392,35.959925,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0465</name>
+        <description>遊休農地: 調査中
+面積: 432㎡
+住所: 茨城県稲敷市四箇字波田沼2604</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.395079,35.964428,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0470</name>
+        <description>遊休農地: 調査中
+面積: 327㎡
+住所: 茨城県稲敷市四箇字波田沼2625-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.396131,35.963739,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0471</name>
+        <description>遊休農地: 調査中
+面積: 176㎡
+住所: 茨城県稲敷市四箇字東内1651</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.391627,35.963334,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0474</name>
+        <description>遊休農地: 調査中
+面積: 527㎡
+住所: 茨城県稲敷市四箇字東内1669-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.391199,35.964031,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0480</name>
+        <description>遊休農地: 調査中
+面積: 137㎡
+住所: 茨城県稲敷市四箇字湯作1516</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.390863,35.961831,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0485</name>
+        <description>遊休農地: 調査中
+面積: 407㎡
+住所: 茨城県稲敷市四箇字湯作1606</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.391041,35.962189,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0487</name>
+        <description>遊休農地: 調査中
+面積: 49㎡
+住所: 茨城県稲敷市四箇字和田2634</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.397109,35.964499,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0498</name>
+        <description>遊休農地: 調査中
+面積: 189㎡
+住所: 茨城県稲敷市甘田字神田1961-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.397122,35.944111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0501</name>
+        <description>遊休農地: 調査中
+面積: 8.35㎡
+住所: 茨城県稲敷市甘田字西464</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.392752,35.947387,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0502</name>
+        <description>遊休農地: 調査中
+面積: 4.1㎡
+住所: 茨城県稲敷市甘田字西465</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.392866,35.947411,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0506</name>
+        <description>遊休農地: 調査中
+面積: 9099㎡
+住所: 茨城県稲敷市甘田字見山1942</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.396560,35.942924,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0512</name>
+        <description>遊休農地: 調査中
+面積: 185㎡
+住所: 茨城県稲敷市釜井字立切135</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.394719,35.947803,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0513</name>
+        <description>遊休農地: 調査中
+面積: 694㎡
+住所: 茨城県稲敷市釜井字田ノ上134</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.394455,35.947911,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0518</name>
+        <description>遊休農地: 調査中
+面積: 1335㎡
+住所: 茨城県稲敷市釜井字西の町282-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.391221,35.941649,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0520</name>
+        <description>遊休農地: 調査中
+面積: 104㎡
+住所: 茨城県稲敷市釜井字西の町284-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.391021,35.941437,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0522</name>
+        <description>遊休農地: 調査中
+面積: 988㎡
+住所: 茨城県稲敷市釜井字西の町285-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.391240,35.940870,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0527</name>
+        <description>遊休農地: 調査中
+面積: 42㎡
+住所: 茨城県稲敷市釜井字山の下393</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.396399,35.942394,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0530</name>
+        <description>遊休農地: 調査中
+面積: 2528㎡
+住所: 茨城県稲敷市釜井字後田340</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.391810,35.940707,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0541</name>
+        <description>遊休農地: 調査中
+面積: 370㎡
+住所: 茨城県稲敷市幸田字権現久保604-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.379894,35.942475,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0542</name>
+        <description>遊休農地: 調査中
+面積: 350㎡
+住所: 茨城県稲敷市幸田字権現久保621</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.380817,35.942549,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0544</name>
+        <description>遊休農地: 調査中
+面積: 396㎡
+住所: 茨城県稲敷市幸田字権現久保628</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.381061,35.942934,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0546</name>
+        <description>遊休農地: 調査中
+面積: 211㎡
+住所: 茨城県稲敷市幸田字権現久保637</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.381629,35.943157,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0547</name>
+        <description>遊休農地: 調査中
+面積: 185㎡
+住所: 茨城県稲敷市幸田字権現久保638</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.381519,35.943043,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0550</name>
+        <description>遊休農地: 調査中
+面積: 694㎡
+住所: 茨城県稲敷市幸田字鳥打454-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.384947,35.945940,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0552</name>
+        <description>遊休農地: 調査中
+面積: 1269㎡
+住所: 茨城県稲敷市幸田字横須賀後1381</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.390581,35.940865,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0553</name>
+        <description>遊休農地: 調査中
+面積: 317㎡
+住所: 茨城県稲敷市幸田字横須賀後1383</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.390316,35.941078,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0559</name>
+        <description>遊休農地: 調査中
+面積: 571㎡
+住所: 茨城県稲敷市幸田字横須賀後1390</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.390852,35.940689,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0563</name>
+        <description>遊休農地: 調査中
+面積: 76㎡
+住所: 茨城県稲敷市幸田字前久保1037-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.383260,35.941393,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0564</name>
+        <description>遊休農地: 調査中
+面積: 360㎡
+住所: 茨城県稲敷市幸田字前久保1046</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.382601,35.941744,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0566</name>
+        <description>遊休農地: 調査中
+面積: 436㎡
+住所: 茨城県稲敷市幸田字前久保1049</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.382429,35.941840,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0567</name>
+        <description>遊休農地: 調査中
+面積: 552㎡
+住所: 茨城県稲敷市幸田字前久保1050</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.382304,35.941726,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0568</name>
+        <description>遊休農地: 調査中
+面積: 251㎡
+住所: 茨城県稲敷市幸田字前久保1052</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.382085,35.941753,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0571</name>
+        <description>遊休農地: 調査中
+面積: 317㎡
+住所: 茨城県稲敷市幸田字牛井戸163</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.379626,35.940818,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0575</name>
+        <description>遊休農地: 調査中
+面積: 780㎡
+住所: 茨城県稲敷市幸田字原山167-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.379636,35.941229,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0581</name>
+        <description>遊休農地: 調査中
+面積: 476㎡
+住所: 茨城県稲敷市幸田字原山173-3</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.379262,35.941284,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0585</name>
+        <description>遊休農地: 調査中
+面積: 290㎡
+住所: 茨城県稲敷市幸田字原山173-7</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.378600,35.941503,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0591</name>
+        <description>遊休農地: 調査中
+面積: 502㎡
+住所: 茨城県稲敷市幸田字原山173-13</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.377633,35.941526,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0592</name>
+        <description>遊休農地: 調査中
+面積: 274㎡
+住所: 茨城県稲敷市幸田字原山173-14</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.377745,35.941502,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0598</name>
+        <description>遊休農地: 調査中
+面積: 442㎡
+住所: 茨城県稲敷市幸田字原山173-20</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.379148,35.940993,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0599</name>
+        <description>遊休農地: 調査中
+面積: 495㎡
+住所: 茨城県稲敷市幸田字原山173-23</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.377929,35.941577,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0603</name>
+        <description>遊休農地: 調査中
+面積: 145㎡
+住所: 茨城県稲敷市幸田字ぐみの木516</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.382404,35.944428,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0604</name>
+        <description>遊休農地: 調査中
+面積: 755㎡
+住所: 茨城県稲敷市幸田字ぐみの木538-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.382376,35.945215,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0611</name>
+        <description>遊休農地: 調査中
+面積: 88㎡
+住所: 茨城県稲敷市幸田字ぐみの木542-4</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.382387,35.945560,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0614</name>
+        <description>遊休農地: 調査中
+面積: 231㎡
+住所: 茨城県稲敷市幸田字坊田824-3</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.385544,35.942791,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0617</name>
+        <description>遊休農地: 調査中
+面積: 383㎡
+住所: 茨城県稲敷市幸田字平1059</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.381604,35.941388,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0619</name>
+        <description>遊休農地: 調査中
+面積: 231㎡
+住所: 茨城県稲敷市幸田字平1062</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.381352,35.941443,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0622</name>
+        <description>遊休農地: 調査中
+面積: 958㎡
+住所: 茨城県稲敷市幸田字平1065</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.380950,35.941351,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0624</name>
+        <description>遊休農地: 調査中
+面積: 495㎡
+住所: 茨城県稲敷市幸田字平1066-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.380728,35.941434,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0634</name>
+        <description>遊休農地: 調査中
+面積: 879㎡
+住所: 茨城県稲敷市幸田字薬師山610</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.380966,35.941874,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0641</name>
+        <description>遊休農地: 調査中
+面積: 181㎡
+住所: 茨城県稲敷市幸田字薬師山618</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.380566,35.942164,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0643</name>
+        <description>遊休農地: 調査中
+面積: 257㎡
+住所: 茨城県稲敷市幸田字宮前643</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.381367,35.942373,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0644</name>
+        <description>遊休農地: 調査中
+面積: 985㎡
+住所: 茨城県稲敷市幸田字宮前644</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.381486,35.942144,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0647</name>
+        <description>遊休農地: 調査中
+面積: 426㎡
+住所: 茨城県稲敷市幸田字宮前648</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.381651,35.942454,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0651</name>
+        <description>遊休農地: 調査中
+面積: 187㎡
+住所: 茨城県稲敷市幸田字宮前655-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.382409,35.942487,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0655</name>
+        <description>遊休農地: 調査中
+面積: 456㎡
+住所: 茨城県稲敷市幸田字宮前659</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.381576,35.942811,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0656</name>
+        <description>遊休農地: 調査中
+面積: 214㎡
+住所: 茨城県稲敷市幸田字宮前660</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.381689,35.942846,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0657</name>
+        <description>遊休農地: 調査中
+面積: 261㎡
+住所: 茨城県稲敷市幸田字宮前661</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.381784,35.942807,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0659</name>
+        <description>遊休農地: 調査中
+面積: 406㎡
+住所: 茨城県稲敷市幸田字宮前665</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.382210,35.942903,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0664</name>
+        <description>遊休農地: 調査中
+面積: 7.98㎡
+住所: 茨城県稲敷市幸田字上阿らく695-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.382407,35.943456,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0666</name>
+        <description>遊休農地: 調査中
+面積: 259㎡
+住所: 茨城県稲敷市幸田字二ツ塚778-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.382972,35.942500,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0672</name>
+        <description>遊休農地: 調査中
+面積: 152㎡
+住所: 茨城県稲敷市幸田字権現窪274</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.379545,35.942733,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0675</name>
+        <description>遊休農地: 調査中
+面積: 201㎡
+住所: 茨城県稲敷市市崎字大道1604</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.369820,35.943371,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0676</name>
+        <description>遊休農地: 調査中
+面積: 188㎡
+住所: 茨城県稲敷市市崎字大道1605</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.369900,35.943349,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0678</name>
+        <description>遊休農地: 調査中
+面積: 251㎡
+住所: 茨城県稲敷市市崎字長作1607-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370970,35.944638,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0686</name>
+        <description>遊休農地: 調査中
+面積: 419㎡
+住所: 茨城県稲敷市市崎字長作1622</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.371177,35.945112,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0687</name>
+        <description>遊休農地: 調査中
+面積: 185㎡
+住所: 茨城県稲敷市市崎字長作1623</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.371412,35.945072,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0688</name>
+        <description>遊休農地: 調査中
+面積: 495㎡
+住所: 茨城県稲敷市市崎字長作1624</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.371662,35.944848,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0697</name>
+        <description>遊休農地: 調査中
+面積: 353㎡
+住所: 茨城県稲敷市市崎字長作1634</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.371980,35.944620,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0699</name>
+        <description>遊休農地: 調査中
+面積: 294㎡
+住所: 茨城県稲敷市市崎字長作1636</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372280,35.944460,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0700</name>
+        <description>遊休農地: 調査中
+面積: 856㎡
+住所: 茨城県稲敷市市崎字長作1637</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372133,35.944887,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0702</name>
+        <description>遊休農地: 調査中
+面積: 287㎡
+住所: 茨城県稲敷市市崎字長作1639</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372225,35.945052,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0705</name>
+        <description>遊休農地: 調査中
+面積: 251㎡
+住所: 茨城県稲敷市市崎字中根1640-3</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373630,35.945114,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0707</name>
+        <description>遊休農地: 調査中
+面積: 700㎡
+住所: 茨城県稲敷市市崎字中根1643</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.375316,35.945248,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0715</name>
+        <description>遊休農地: 調査中
+面積: 267㎡
+住所: 茨城県稲敷市市崎字中根1652</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.374718,35.945884,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0719</name>
+        <description>遊休農地: 調査中
+面積: 238㎡
+住所: 茨城県稲敷市市崎字中根1656</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372642,35.943562,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0722</name>
+        <description>遊休農地: 調査中
+面積: 439㎡
+住所: 茨城県稲敷市市崎字中根1659</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372506,35.943087,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0725</name>
+        <description>遊休農地: 調査中
+面積: 376㎡
+住所: 茨城県稲敷市市崎字中根1662</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372453,35.942781,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0731</name>
+        <description>遊休農地: 調査中
+面積: 439㎡
+住所: 茨城県稲敷市福田字久保1312</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367098,35.942566,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0734</name>
+        <description>遊休農地: 調査中
+面積: 184㎡
+住所: 茨城県稲敷市福田字久保1315-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367210,35.942871,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0736</name>
+        <description>遊休農地: 調査中
+面積: 429㎡
+住所: 茨城県稲敷市福田字久保1316</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367081,35.942992,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0737</name>
+        <description>遊休農地: 調査中
+面積: 413㎡
+住所: 茨城県稲敷市福田字蔵増地1618</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368895,35.943825,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0739</name>
+        <description>遊休農地: 調査中
+面積: 677㎡
+住所: 茨城県稲敷市福田字蔵増地1620</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.369356,35.943832,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0740</name>
+        <description>遊休農地: 調査中
+面積: 515㎡
+住所: 茨城県稲敷市福田字蔵増地1621</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368949,35.943926,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0741</name>
+        <description>遊休農地: 調査中
+面積: 373㎡
+住所: 茨城県稲敷市福田字蔵増地1622</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.369312,35.943976,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0745</name>
+        <description>遊休農地: 調査中
+面積: 793㎡
+住所: 茨城県稲敷市福田字蔵増地1626-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368963,35.944107,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0747</name>
+        <description>遊休農地: 調査中
+面積: 85㎡
+住所: 茨城県稲敷市福田字蔵増地1627</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368741,35.944192,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0748</name>
+        <description>遊休農地: 調査中
+面積: 76㎡
+住所: 茨城県稲敷市福田字蔵増地1628</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368780,35.944253,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0750</name>
+        <description>遊休農地: 調査中
+面積: 204㎡
+住所: 茨城県稲敷市福田字蔵増地1630</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368926,35.944451,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0763</name>
+        <description>遊休農地: 調査中
+面積: 902㎡
+住所: 茨城県稲敷市福田字蔵増地1644</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.369208,35.946338,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0765</name>
+        <description>遊休農地: 調査中
+面積: 446㎡
+住所: 茨城県稲敷市福田字久保台1348</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368675,35.942701,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0769</name>
+        <description>遊休農地: 調査中
+面積: 542㎡
+住所: 茨城県稲敷市福田字久保台1381</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368985,35.942637,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0771</name>
+        <description>遊休農地: 調査中
+面積: 462㎡
+住所: 茨城県稲敷市福田字久保台1383</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.369428,35.942522,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0774</name>
+        <description>遊休農地: 調査中
+面積: 330㎡
+住所: 茨城県稲敷市福田字久保台1386-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.369716,35.942457,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0778</name>
+        <description>遊休農地: 調査中
+面積: 1943㎡
+住所: 茨城県稲敷市福田字久保台1389</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370311,35.942288,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0779</name>
+        <description>遊休農地: 調査中
+面積: 271㎡
+住所: 茨城県稲敷市福田字久保台1390</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370177,35.942530,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0781</name>
+        <description>遊休農地: 調査中
+面積: 254㎡
+住所: 茨城県稲敷市福田字久保台1392</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370015,35.942393,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0782</name>
+        <description>遊休農地: 調査中
+面積: 581㎡
+住所: 茨城県稲敷市福田字久保台1393</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.369994,35.942265,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0785</name>
+        <description>遊休農地: 調査中
+面積: 208㎡
+住所: 茨城県稲敷市福田字久保台1401</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.369686,35.941112,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0787</name>
+        <description>遊休農地: 調査中
+面積: 95㎡
+住所: 茨城県稲敷市福田字■々田1417</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370216,35.940898,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0788</name>
+        <description>遊休農地: 調査中
+面積: 56㎡
+住所: 茨城県稲敷市福田字■々田1434</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370651,35.940888,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0791</name>
+        <description>遊休農地: 調査中
+面積: 545㎡
+住所: 茨城県稲敷市福田字■々田1446-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.371217,35.941193,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0792</name>
+        <description>遊休農地: 調査中
+面積: 519㎡
+住所: 茨城県稲敷市福田字■々田1455</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370723,35.942337,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0795</name>
+        <description>遊休農地: 調査中
+面積: 142㎡
+住所: 茨城県稲敷市福田字■々田1458</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370911,35.942551,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0798</name>
+        <description>遊休農地: 調査中
+面積: 165㎡
+住所: 茨城県稲敷市福田字■々田1461</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.371033,35.942165,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0807</name>
+        <description>遊休農地: 調査中
+面積: 542㎡
+住所: 茨城県稲敷市福田字戸■1584-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370382,35.943455,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0812</name>
+        <description>遊休農地: 調査中
+面積: 561㎡
+住所: 茨城県稲敷市福田字戸■1588</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370547,35.943772,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0825</name>
+        <description>遊休農地: 調査中
+面積: 221㎡
+住所: 茨城県稲敷市福田字戸■1601-3</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370153,35.943976,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0826</name>
+        <description>遊休農地: 調査中
+面積: 264㎡
+住所: 茨城県稲敷市福田字戸■1602</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370021,35.944019,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0827</name>
+        <description>遊休農地: 調査中
+面積: 423㎡
+住所: 茨城県稲敷市福田字戸■1603</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370194,35.944146,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0828</name>
+        <description>遊休農地: 調査中
+面積: 403㎡
+住所: 茨城県稲敷市福田字戸■1604</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370250,35.944282,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0829</name>
+        <description>遊休農地: 調査中
+面積: 505㎡
+住所: 茨城県稲敷市福田字戸■1605</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.370086,35.944449,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0837</name>
+        <description>遊休農地: 調査中
+面積: 280㎡
+住所: 茨城県稲敷市福田字戸■1615</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.369254,35.943455,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0839</name>
+        <description>遊休農地: 調査中
+面積: 704㎡
+住所: 茨城県稲敷市福田字戸■1617</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368785,35.943538,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0842</name>
+        <description>遊休農地: 調査中
+面積: 704㎡
+住所: 茨城県稲敷市福田字八幡後1782</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373296,35.944980,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0849</name>
+        <description>遊休農地: 調査中
+面積: 102㎡
+住所: 茨城県稲敷市福田字八幡前1545</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372472,35.941980,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0850</name>
+        <description>遊休農地: 調査中
+面積: 353㎡
+住所: 茨城県稲敷市福田字八幡前1546</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372222,35.942086,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0855</name>
+        <description>遊休農地: 調査中
+面積: 433㎡
+住所: 茨城県稲敷市福田字八幡前1551</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.371979,35.942786,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0864</name>
+        <description>遊休農地: 調査中
+面積: 651㎡
+住所: 茨城県稲敷市福田字八幡前1560</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.371380,35.942840,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0865</name>
+        <description>遊休農地: 調査中
+面積: 621㎡
+住所: 茨城県稲敷市福田字八幡前1561</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.371875,35.943047,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0868</name>
+        <description>遊休農地: 調査中
+面積: 1312㎡
+住所: 茨城県稲敷市福田字八幡前1564</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372042,35.943415,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0869</name>
+        <description>遊休農地: 調査中
+面積: 644㎡
+住所: 茨城県稲敷市福田字八幡前1565</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372172,35.943587,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0871</name>
+        <description>遊休農地: 調査中
+面積: 254㎡
+住所: 茨城県稲敷市福田字八幡前1567</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372256,35.943954,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0875</name>
+        <description>遊休農地: 調査中
+面積: 396㎡
+住所: 茨城県稲敷市福田字八幡前1573-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.371607,35.943765,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0876</name>
+        <description>遊休農地: 調査中
+面積: 221㎡
+住所: 茨城県稲敷市福田字八幡前1574</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.371527,35.943607,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0878</name>
+        <description>遊休農地: 調査中
+面積: 892㎡
+住所: 茨城県稲敷市福田字八幡前1576</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.371360,35.943202,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0883</name>
+        <description>遊休農地: 調査中
+面積: 519㎡
+住所: 茨城県稲敷市福田字向らく1783</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373581,35.944736,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0885</name>
+        <description>遊休農地: 調査中
+面積: 538㎡
+住所: 茨城県稲敷市福田字向らく1785</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373998,35.945072,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0888</name>
+        <description>遊休農地: 調査中
+面積: 304㎡
+住所: 茨城県稲敷市福田字向らく1788</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.374350,35.945125,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0889</name>
+        <description>遊休農地: 調査中
+面積: 439㎡
+住所: 茨城県稲敷市福田字向らく1789</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.374447,35.944943,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0890</name>
+        <description>遊休農地: 調査中
+面積: 552㎡
+住所: 茨城県稲敷市福田字向らく1790-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373958,35.944739,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0891</name>
+        <description>遊休農地: 調査中
+面積: 495㎡
+住所: 茨城県稲敷市福田字向らく1790-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.374171,35.944947,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0896</name>
+        <description>遊休農地: 調査中
+面積: 1252㎡
+住所: 茨城県稲敷市福田字向らく1800</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373935,35.944138,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0898</name>
+        <description>遊休農地: 調査中
+面積: 532㎡
+住所: 茨城県稲敷市福田字向らく1802</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373512,35.944364,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0907</name>
+        <description>遊休農地: 調査中
+面積: 912㎡
+住所: 茨城県稲敷市福田字向らく1817</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373895,35.943472,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0908</name>
+        <description>遊休農地: 調査中
+面積: 1444㎡
+住所: 茨城県稲敷市福田字向らく1818</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373683,35.943404,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0913</name>
+        <description>遊休農地: 調査中
+面積: 323㎡
+住所: 茨城県稲敷市福田字神明前1648</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368902,35.945267,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0914</name>
+        <description>遊休農地: 調査中
+面積: 456㎡
+住所: 茨城県稲敷市福田字神明前1649</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368992,35.945128,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0916</name>
+        <description>遊休農地: 調査中
+面積: 581㎡
+住所: 茨城県稲敷市福田字神明前1651</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368817,35.945049,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0923</name>
+        <description>遊休農地: 調査中
+面積: 757㎡
+住所: 茨城県稲敷市福田字神明前1658</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368608,35.944670,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0936</name>
+        <description>遊休農地: 調査中
+面積: 261㎡
+住所: 茨城県稲敷市福田字神明前1671</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368508,35.943846,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0941</name>
+        <description>遊休農地: 調査中
+面積: 595㎡
+住所: 茨城県稲敷市福田字神明前1675-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368071,35.944135,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0945</name>
+        <description>遊休農地: 調査中
+面積: 363㎡
+住所: 茨城県稲敷市福田字神明前1677</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367713,35.943666,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0949</name>
+        <description>遊休農地: 調査中
+面積: 271㎡
+住所: 茨城県稲敷市福田字神明前1681</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367833,35.944369,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0950</name>
+        <description>遊休農地: 調査中
+面積: 383㎡
+住所: 茨城県稲敷市福田字神明前1682</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368030,35.944326,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0967</name>
+        <description>遊休農地: 調査中
+面積: 677㎡
+住所: 茨城県稲敷市福田字中根1748</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.374088,35.945815,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0969</name>
+        <description>遊休農地: 調査中
+面積: 214㎡
+住所: 茨城県稲敷市福田字中根1749-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.374403,35.946070,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0973</name>
+        <description>遊休農地: 調査中
+面積: 373㎡
+住所: 茨城県稲敷市福田字中根1752</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.374246,35.945636,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0975</name>
+        <description>遊休農地: 調査中
+面積: 337㎡
+住所: 茨城県稲敷市福田字中根1754-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373898,35.945394,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0979</name>
+        <description>遊休農地: 調査中
+面積: 323㎡
+住所: 茨城県稲敷市福田字中根1757</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373672,35.945546,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0981</name>
+        <description>遊休農地: 調査中
+面積: 641㎡
+住所: 茨城県稲敷市福田字中根1759</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.373316,35.945589,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0987</name>
+        <description>遊休農地: 調査中
+面積: 119㎡
+住所: 茨城県稲敷市福田字大林1920-4</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.374473,35.940923,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0989</name>
+        <description>遊休農地: 調査中
+面積: 991㎡
+住所: 茨城県稲敷市福田字大林1920-7</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.374846,35.941153,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0990</name>
+        <description>遊休農地: 調査中
+面積: 1864㎡
+住所: 茨城県稲敷市福田字大林1920-9</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.374523,35.941164,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0995</name>
+        <description>遊休農地: 調査中
+面積: 581㎡
+住所: 茨城県稲敷市福田字大王前1541</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372875,35.941174,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0998</name>
+        <description>遊休農地: 調査中
+面積: 542㎡
+住所: 茨城県稲敷市福田字大王前1544-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372684,35.941736,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0999</name>
+        <description>遊休農地: 調査中
+面積: 366㎡
+住所: 茨城県稲敷市福田字大王前1544-3</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.372921,35.941424,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1000</name>
+        <description>遊休農地: 調査中
+面積: 148㎡
+住所: 茨城県稲敷市福田字大道1331</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367858,35.943444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1002</name>
+        <description>遊休農地: 調査中
+面積: 380㎡
+住所: 茨城県稲敷市福田字大道1333</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.367861,35.943285,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1008</name>
+        <description>遊休農地: 調査中
+面積: 254㎡
+住所: 茨城県稲敷市福田字大道1339</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368498,35.943332,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1011</name>
+        <description>遊休農地: 調査中
+面積: 393㎡
+住所: 茨城県稲敷市福田字大道1342</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368648,35.943238,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1014</name>
+        <description>遊休農地: 調査中
+面積: 446㎡
+住所: 茨城県稲敷市福田字大道1344</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.369022,35.943179,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1015</name>
+        <description>遊休農地: 調査中
+面積: 538㎡
+住所: 茨城県稲敷市福田字大道1345</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.369154,35.943153,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1017</name>
+        <description>遊休農地: 調査中
+面積: 257㎡
+住所: 茨城県稲敷市福田字大道1346-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368928,35.942972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1018</name>
+        <description>遊休農地: 調査中
+面積: 323㎡
+住所: 茨城県稲敷市福田字大道1347</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368862,35.942793,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1022</name>
+        <description>遊休農地: 調査中
+面積: 472㎡
+住所: 茨城県稲敷市福田字大道1352-2</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.368111,35.942519,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1026</name>
+        <description>遊休農地: 調査中
+面積: 413㎡
+住所: 茨城県稲敷市福田字薬師堂1324</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.366937,35.943276,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1030</name>
+        <description>遊休農地: 調査中
+面積: 1160㎡
+住所: 茨城県稲敷市福田字薬師堂1328-1</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.366882,35.943702,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,3031 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>教師データ作成 - つくばみらい市</name>
+    <Style id="pin">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>畑</name>
+      <Placemark>
+        <name>0001</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 3355㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ台270
+lat: 35.977488, lon: 140.083525</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.083525333,35.977487895000024,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0002</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 119.3㎡
+住所: 茨城県つくばみらい市野堀字栗山下300-1
+lat: 35.976561, lon: 140.084989</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08498934400006,35.97656078700004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0003</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 95㎡
+住所: 茨城県つくばみらい市野堀字山ノ下407
+lat: 35.974080, lon: 140.079628</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07962830500003,35.97407952100008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0004</name>
+        <description>遊休農地: 調査中
+面積: 7489㎡
+住所: 茨城県龍ケ崎市佐貫町中台西1205-1
+lat: 35.975242, lon: 140.089033</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08903253,35.97524231,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0005</name>
+        <description>遊休農地: 調査中
+面積: 5200㎡
+住所: 茨城県龍ケ崎市佐貫町中台西1205-2
+lat: 35.975384, lon: 140.089756</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08975567,35.97538402,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0006</name>
+        <description>遊休農地: 調査中
+面積: 12452㎡
+住所: 茨城県龍ケ崎市佐貫町中台西1216
+lat: 35.974370, lon: 140.089324</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08932352,35.97437046,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0007</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 3220㎡
+住所: 茨城県つくばみらい市大和田字耒見195-1
+lat: 35.980149, lon: 140.079272</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07927198800007,35.980149278000056,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0008</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 3544㎡
+住所: 茨城県つくばみらい市大和田字耒見219-3
+lat: 35.980274, lon: 140.080477</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.080476749,35.98027441800008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0009</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 615㎡
+住所: 茨城県つくばみらい市大和田字根郭150-1
+lat: 35.981638, lon: 140.078525</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07852537400004,35.98163801800007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0010</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 646㎡
+住所: 茨城県つくばみらい市大和田字根郭152
+lat: 35.981672, lon: 140.078264</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07826418600007,35.981671937000044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0011</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 179㎡
+住所: 茨城県つくばみらい市大和田字根郭153
+lat: 35.981490, lon: 140.078234</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0782338690001,35.98148950500007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0012</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 138㎡
+住所: 茨城県つくばみらい市大和田字根郭154
+lat: 35.981436, lon: 140.078136</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07813635800005,35.98143628400004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0013</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 183㎡
+住所: 茨城県つくばみらい市大和田字根郭155
+lat: 35.981390, lon: 140.078018</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07801775300004,35.98139020600007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0014</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 196㎡
+住所: 茨城県つくばみらい市大和田字根郭156
+lat: 35.981517, lon: 140.077961</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07796109100002,35.981516845000044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0015</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 190㎡
+住所: 茨城県つくばみらい市大和田字根郭157
+lat: 35.981476, lon: 140.077809</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0778085510001,35.98147566400007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0016</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 147㎡
+住所: 茨城県つくばみらい市大和田字根郭159
+lat: 35.981316, lon: 140.077726</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07772561700006,35.98131627200007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0017</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 206㎡
+住所: 茨城県つくばみらい市大和田字根郭160
+lat: 35.981281, lon: 140.077579</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07757917800006,35.981281007000064,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0018</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 589㎡
+住所: 茨城県つくばみらい市大和田字根郭161
+lat: 35.981416, lon: 140.077525</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0775254980001,35.981415929000036,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0019</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 160㎡
+住所: 茨城県つくばみらい市大和田字根郭162
+lat: 35.981258, lon: 140.077453</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07745293000005,35.98125775600005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0020</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 1123㎡
+住所: 茨城県つくばみらい市大和田字西久保204-1
+lat: 35.980779, lon: 140.079975</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0799750440001,35.98077867300003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0021</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 838㎡
+住所: 茨城県つくばみらい市大和田字西久保204-2
+lat: 35.980927, lon: 140.080192</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08019204900006,35.980926675000035,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0022</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 762㎡
+住所: 茨城県つくばみらい市大和田字西久保204-3
+lat: 35.981027, lon: 140.080449</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08044868500008,35.981026917000065,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0023</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 848㎡
+住所: 茨城県つくばみらい市大和田字西久保207
+lat: 35.981135, lon: 140.080654</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08065435600008,35.981134921000034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0024</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 790㎡
+住所: 茨城県つくばみらい市大和田字西久保208
+lat: 35.981281, lon: 140.080806</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08080612000003,35.98128147600005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0025</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 359㎡
+住所: 茨城県つくばみらい市大和田字西久保209
+lat: 35.981427, lon: 140.080977</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08097744500003,35.981427214000064,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0026</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 943㎡
+住所: 茨城県つくばみらい市大和田字西久保215
+lat: 35.981624, lon: 140.081078</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08107773100005,35.98162387800005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0027</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1883㎡
+住所: 茨城県つくばみらい市大和田字西久保216
+lat: 35.981488, lon: 140.081255</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08125463200008,35.981488306000074,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0028</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1532㎡
+住所: 茨城県つくばみらい市大和田字西久保218
+lat: 35.981389, lon: 140.082081</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08208136500002,35.981388511000034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0029</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 354㎡
+住所: 茨城県つくばみらい市野堀字古林12
+lat: 35.979238, lon: 140.082227</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0822270870001,35.979238029000044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0030</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 504㎡
+住所: 茨城県つくばみらい市野堀字古林14
+lat: 35.979594, lon: 140.082435</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0824352290001,35.979593641000065,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0031</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 2688㎡
+住所: 茨城県つくばみらい市野堀字古林15
+lat: 35.979300, lon: 140.082443</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08244294200006,35.97929958000003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0032</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 2521㎡
+住所: 茨城県つくばみらい市野堀字古林16-1
+lat: 35.979844, lon: 140.082586</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08258598200007,35.97984420700004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0033</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 492㎡
+住所: 茨城県つくばみらい市野堀字古林16-2
+lat: 35.980427, lon: 140.082540</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0825399690001,35.980427270000064,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0034</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 396㎡
+住所: 茨城県つくばみらい市野堀字古林18-2
+lat: 35.980431, lon: 140.082694</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08269434700003,35.980431027000066,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0035</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 661㎡
+住所: 茨城県つくばみらい市野堀字古林21
+lat: 35.979599, lon: 140.082929</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08292857700008,35.979598777000035,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0036</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1661㎡
+住所: 茨城県つくばみらい市野堀字古林22-1
+lat: 35.980277, lon: 140.083047</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08304732700003,35.980277141000045,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0037</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1920㎡
+住所: 茨城県つくばみらい市野堀字古林22-2
+lat: 35.979577, lon: 140.083148</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08314847300005,35.97957728200004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0038</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 737㎡
+住所: 茨城県つくばみらい市野堀字古林23-1
+lat: 35.979928, lon: 140.083444</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08344432400008,35.97992789500006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0039</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1502㎡
+住所: 茨城県つくばみらい市野堀字古林24
+lat: 35.979897, lon: 140.083821</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0838214690001,35.979897245000075,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0040</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1626㎡
+住所: 茨城県つくばみらい市野堀字古林27
+lat: 35.979950, lon: 140.084057</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08405679800012,35.97995023200008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0041</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1089㎡
+住所: 茨城県つくばみらい市野堀字古林28-1
+lat: 35.980002, lon: 140.084262</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0842618360001,35.98000174400005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0042</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 78㎡
+住所: 茨城県つくばみらい市野堀字古林28-2
+lat: 35.980345, lon: 140.084176</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08417599900008,35.98034487600006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0043</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1190㎡
+住所: 茨城県つくばみらい市野堀字古林115
+lat: 35.978623, lon: 140.082994</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08299375600006,35.97862330900006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0044</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 759㎡
+住所: 茨城県つくばみらい市野堀字古林116
+lat: 35.978974, lon: 140.082889</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08288874900006,35.97897368900004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0045</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 780㎡
+住所: 茨城県つくばみらい市野堀字古林120
+lat: 35.979010, lon: 140.082230</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0822298180001,35.97901022800005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0046</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 64㎡
+住所: 茨城県つくばみらい市野堀字古林124
+lat: 35.978754, lon: 140.082947</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0829471820001,35.97875406000003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0047</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1891㎡
+住所: 茨城県つくばみらい市野堀字二階山29
+lat: 35.980663, lon: 140.084147</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08414736800012,35.98066336200003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0048</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 1786㎡
+住所: 茨城県つくばみらい市野堀字二階山30
+lat: 35.980166, lon: 140.084519</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0845193440001,35.98016550500006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0049</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 944㎡
+住所: 茨城県つくばみらい市野堀字二階山31
+lat: 35.980376, lon: 140.084638</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08463826600007,35.98037595900007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0050</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1486㎡
+住所: 茨城県つくばみらい市野堀字二階山32
+lat: 35.980806, lon: 140.084400</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08439966800006,35.98080590600006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0051</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 2254㎡
+住所: 茨城県つくばみらい市野堀字二階山34-2
+lat: 35.980375, lon: 140.085101</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0851012500001,35.98037537700003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0052</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 11㎡
+住所: 茨城県つくばみらい市野堀字浅間下39-2
+lat: 35.981640, lon: 140.086981</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08698097600006,35.98163959300007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0053</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 453㎡
+住所: 茨城県つくばみらい市野堀字大和田畑40-1
+lat: 35.981530, lon: 140.086930</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08692995400008,35.98153008600008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0054</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 391㎡
+住所: 茨城県つくばみらい市野堀字大和田畑41
+lat: 35.981514, lon: 140.086777</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08677677600008,35.981514151000056,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0055</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 376㎡
+住所: 茨城県つくばみらい市野堀字大和田畑42
+lat: 35.981457, lon: 140.086703</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08670259500002,35.98145717600005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0056</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 540㎡
+住所: 茨城県つくばみらい市野堀字大和田畑43
+lat: 35.981407, lon: 140.086613</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0866127920001,35.98140680700004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0057</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 652㎡
+住所: 茨城県つくばみらい市野堀字大和田畑45
+lat: 35.981322, lon: 140.086517</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08651669000005,35.981322060000025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0058</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 656㎡
+住所: 茨城県つくばみらい市野堀字大和田畑46
+lat: 35.981238, lon: 140.086419</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08641916500005,35.98123793000008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0059</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 572㎡
+住所: 茨城県つくばみらい市野堀字大和田畑47
+lat: 35.981167, lon: 140.086345</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08634451300009,35.98116728800005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0060</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1089㎡
+住所: 茨城県つくばみらい市野堀字大和田畑49
+lat: 35.981045, lon: 140.086268</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0862683360001,35.98104514500005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0061</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 594㎡
+住所: 茨城県つくばみらい市野堀字大和田畑52
+lat: 35.980804, lon: 140.086230</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08622957600005,35.980804384000066,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0062</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 913㎡
+住所: 茨城県つくばみらい市野堀字大和田畑53
+lat: 35.981037, lon: 140.085977</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08597717700002,35.981037134000076,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0063</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 652㎡
+住所: 茨城県つくばみらい市野堀字大和田畑54
+lat: 35.980875, lon: 140.085895</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08589457000005,35.980874991000064,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0064</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 189㎡
+住所: 茨城県つくばみらい市野堀字大和田畑55
+lat: 35.980662, lon: 140.086198</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0861978040001,35.98066191100003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0065</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1232㎡
+住所: 茨城県つくばみらい市野堀字大和田畑58
+lat: 35.980705, lon: 140.085897</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08589716000006,35.98070536100005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0066</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1067㎡
+住所: 茨城県つくばみらい市野堀字大和田畑59
+lat: 35.980588, lon: 140.085788</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08578790600006,35.98058795400004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0067</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1048㎡
+住所: 茨城県つくばみらい市野堀字大和田畑62
+lat: 35.980477, lon: 140.085681</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08568107600001,35.98047680900004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0068</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 935㎡
+住所: 茨城県つくばみらい市野堀字大和田畑63
+lat: 35.980358, lon: 140.085593</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08559338800012,35.98035800500003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0069</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 955㎡
+住所: 茨城県つくばみらい市野堀字大和田畑67
+lat: 35.980251, lon: 140.085496</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08549626500007,35.98025099400007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0070</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 938㎡
+住所: 茨城県つくばみらい市野堀字大和田畑68
+lat: 35.980130, lon: 140.085418</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0854180450001,35.98012979400005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0071</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 931㎡
+住所: 茨城県つくばみらい市野堀字大和田畑71
+lat: 35.980026, lon: 140.085317</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08531719200005,35.98002573000008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0072</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1194㎡
+住所: 茨城県つくばみらい市野堀字大和田畑72
+lat: 35.979903, lon: 140.085219</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08521853700006,35.97990347800004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0073</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1111㎡
+住所: 茨城県つくばみらい市野堀字大和田畑75
+lat: 35.979772, lon: 140.085126</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08512553800006,35.97977208700007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0074</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 726㎡
+住所: 茨城県つくばみらい市野堀字大和田畑76
+lat: 35.979733, lon: 140.084874</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08487390900007,35.97973283400006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0075</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 462㎡
+住所: 茨城県つくばみらい市野堀字大和田畑77
+lat: 35.979562, lon: 140.085218</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08521779700004,35.97956196400003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0076</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 1065㎡
+住所: 茨城県つくばみらい市野堀字大和田畑79-1
+lat: 35.979280, lon: 140.084612</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08461235200002,35.97928011700003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0077</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 213㎡
+住所: 茨城県つくばみらい市野堀字大和田畑79-2
+lat: 35.979414, lon: 140.084664</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08466442200006,35.979414158000054,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0078</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 712㎡
+住所: 茨城県つくばみらい市野堀字大和田畑81
+lat: 35.979186, lon: 140.084954</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08495412600007,35.97918600700007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0079</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 682㎡
+住所: 茨城県つくばみらい市野堀字大和田畑82
+lat: 35.979130, lon: 140.085128</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08512763800002,35.97912963300007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0080</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 705㎡
+住所: 茨城県つくばみらい市野堀字大和田畑83
+lat: 35.979102, lon: 140.085315</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08531501000004,35.979102054000066,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0081</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 707㎡
+住所: 茨城県つくばみらい市野堀字大和田畑84
+lat: 35.979077, lon: 140.085574</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08557426000004,35.979076742000075,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0082</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 407㎡
+住所: 茨城県つくばみらい市野堀字大和田畑85
+lat: 35.978994, lon: 140.085838</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08583777700005,35.978993520000074,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0083</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1781㎡
+住所: 茨城県つくばみらい市野堀字白旗86-2
+lat: 35.978793, lon: 140.084843</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0848434730001,35.97879336500006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0084</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 610㎡
+住所: 茨城県つくばみらい市野堀字白旗86-3
+lat: 35.978711, lon: 140.085096</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08509568500006,35.97871126100006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0085</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 887㎡
+住所: 茨城県つくばみらい市野堀字白旗86-6
+lat: 35.978861, lon: 140.085521</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08552131800002,35.97886078600004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0086</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 17㎡
+住所: 茨城県つくばみらい市野堀字白旗86-9
+lat: 35.978667, lon: 140.085229</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08522910400006,35.97866688900007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0087</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 113㎡
+住所: 茨城県つくばみらい市野堀字白旗86-10
+lat: 35.978614, lon: 140.085374</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08537386800003,35.97861387100005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0088</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 3243㎡
+住所: 茨城県つくばみらい市野堀字白旗88
+lat: 35.978922, lon: 140.084365</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08436521500005,35.97892207900003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0089</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1340㎡
+住所: 茨城県つくばみらい市野堀字白旗89
+lat: 35.978861, lon: 140.084062</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.084062119,35.97886052600006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0090</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 406㎡
+住所: 茨城県つくばみらい市野堀字白旗90
+lat: 35.979377, lon: 140.084364</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08436418500003,35.97937670400006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0091</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 1052㎡
+住所: 茨城県つくばみらい市野堀字白旗91
+lat: 35.979699, lon: 140.084487</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08448716300006,35.97969894200003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0092</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1377㎡
+住所: 茨城県つくばみらい市野堀字白旗92
+lat: 35.979440, lon: 140.084023</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08402297800012,35.979439513000045,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0093</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 584㎡
+住所: 茨城県つくばみらい市野堀字白旗93
+lat: 35.979772, lon: 140.083484</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08348415000012,35.97977156800005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0094</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 752㎡
+住所: 茨城県つくばみらい市野堀字白旗94
+lat: 35.979629, lon: 140.083499</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08349869800008,35.97962853800004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0095</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 628㎡
+住所: 茨城県つくばみらい市野堀字白旗95
+lat: 35.979467, lon: 140.083526</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08352625500004,35.97946681600007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0096</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1270㎡
+住所: 茨城県つくばみらい市野堀字白旗96
+lat: 35.979257, lon: 140.083560</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08355966700003,35.97925710000004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0097</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 163㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ100
+lat: 35.978108, lon: 140.084689</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0846887360001,35.97810823200007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0098</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 162㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ101
+lat: 35.978036, lon: 140.084843</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08484265000004,35.97803552000005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0099</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 450㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ105
+lat: 35.978250, lon: 140.084425</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08442544000002,35.978249937000044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0100</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 177㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ109
+lat: 35.978373, lon: 140.084213</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0842130000001,35.97837335400004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0101</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 342㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ110
+lat: 35.978427, lon: 140.083865</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08386514400001,35.978427486000044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0102</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 826㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ114
+lat: 35.978628, lon: 140.083310</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.083310019,35.97862848800003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0103</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 404㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ127
+lat: 35.978464, lon: 140.082959</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08295915000008,35.978463755000064,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0104</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 486㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ128
+lat: 35.978353, lon: 140.082830</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08283014900007,35.978352881000035,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0105</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 123㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ132
+lat: 35.977763, lon: 140.082874</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0828739740001,35.977763320000065,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0106</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 115㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ132-1
+lat: 35.978043, lon: 140.083019</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08301926900003,35.97804280400004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0107</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 294㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ134
+lat: 35.978056, lon: 140.082671</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0826714430001,35.97805636500004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0108</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 2118㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ137
+lat: 35.977468, lon: 140.082462</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0824618150001,35.977468044000034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0109</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 285㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ140-1
+lat: 35.977073, lon: 140.082573</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08257293100007,35.97707296900006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0110</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 328㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ141
+lat: 35.976882, lon: 140.082693</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08269279,35.97688180000006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0111</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 407㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ142
+lat: 35.976820, lon: 140.082509</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08250859600003,35.97682006300005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0112</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 394㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ143
+lat: 35.977001, lon: 140.082420</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08241975700003,35.977000892000035,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0113</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 2416㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ144
+lat: 35.976843, lon: 140.082153</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08215337600006,35.97684338700003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0114</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 1044㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ145-1
+lat: 35.977228, lon: 140.082007</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08200659300007,35.97722845200008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0115</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 1256㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ146
+lat: 35.977399, lon: 140.081990</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08198974000004,35.977398625000035,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0116</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1601㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ148-1
+lat: 35.977221, lon: 140.081452</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08145224100008,35.97722067500007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0117</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 507㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ153
+lat: 35.977386, lon: 140.080995</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08099451500004,35.977385527000024,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0118</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1549㎡
+住所: 茨城県つくばみらい市野堀字梅作149
+lat: 35.976739, lon: 140.081807</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0818066480001,35.97673930000008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0119</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 3984㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ台152-1
+lat: 35.976656, lon: 140.080764</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08076399200002,35.97665649800007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0120</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 2365㎡
+住所: 茨城県つくばみらい市野堀字宮谷ツ台273
+lat: 35.977658, lon: 140.083934</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0839337220001,35.97765820400008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0121</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 547㎡
+住所: 茨城県つくばみらい市野堀字中根窪154
+lat: 35.977383, lon: 140.080713</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0807133940001,35.97738335500003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0122</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 401㎡
+住所: 茨城県つくばみらい市野堀字中根窪155
+lat: 35.977544, lon: 140.080516</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08051596200005,35.977543740000044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0123</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 919㎡
+住所: 茨城県つくばみらい市野堀字中根窪161
+lat: 35.978224, lon: 140.080356</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0803558880001,35.97822410800006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0124</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 2212㎡
+住所: 茨城県つくばみらい市野堀字中根窪190-2
+lat: 35.979387, lon: 140.078587</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07858715600003,35.97938662400003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0125</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 508㎡
+住所: 茨城県つくばみらい市野堀字中根窪190-5
+lat: 35.979185, lon: 140.078986</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07898642200007,35.97918503500006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0126</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 804㎡
+住所: 茨城県つくばみらい市野堀字中根窪190-6
+lat: 35.979051, lon: 140.078989</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07898905000002,35.979050734000054,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0127</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1727㎡
+住所: 茨城県つくばみらい市野堀字中根窪191-1
+lat: 35.978229, lon: 140.078692</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0786920920001,35.978229327000065,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0128</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 3901㎡
+住所: 茨城県つくばみらい市野堀字中根窪193-1
+lat: 35.978265, lon: 140.077631</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07763057400007,35.97826460300007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0129</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 870㎡
+住所: 茨城県つくばみらい市野堀字中根窪196-1
+lat: 35.977921, lon: 140.077458</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07745754100006,35.97792069900004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0130</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 3618㎡
+住所: 茨城県つくばみらい市野堀字中根窪197-1
+lat: 35.977618, lon: 140.077993</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07799324400003,35.977617621000036,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0131</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 438㎡
+住所: 茨城県つくばみらい市野堀字中根窪197-2
+lat: 35.977289, lon: 140.078624</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07862383400004,35.97728869700006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0132</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1946㎡
+住所: 茨城県つくばみらい市野堀字中根窪198-3
+lat: 35.977282, lon: 140.078174</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07817368400003,35.97728211400005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0133</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 177㎡
+住所: 茨城県つくばみらい市野堀字中根窪198-5
+lat: 35.977668, lon: 140.077410</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07741000400006,35.97766766400008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0134</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 469㎡
+住所: 茨城県つくばみらい市野堀字中根窪199-1
+lat: 35.976622, lon: 140.078192</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07819193600005,35.97662224900006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0135</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 913㎡
+住所: 茨城県つくばみらい市野堀字中根窪200
+lat: 35.976854, lon: 140.078211</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0782111950001,35.976853532000064,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0136</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 825㎡
+住所: 茨城県つくばみらい市野堀字中根窪201
+lat: 35.977119, lon: 140.078332</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07833202400002,35.97711865600007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0137</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 734㎡
+住所: 茨城県つくばみらい市野堀字中根窪202
+lat: 35.977251, lon: 140.078796</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07879634000005,35.97725108800006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0138</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 618㎡
+住所: 茨城県つくばみらい市野堀字中根窪204
+lat: 35.977169, lon: 140.079159</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07915947200001,35.97716861500004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0139</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 395㎡
+住所: 茨城県つくばみらい市野堀字中根窪205-1
+lat: 35.977150, lon: 140.079516</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07951630800005,35.97714992300007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0140</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 386㎡
+住所: 茨城県つくばみらい市野堀字中根窪205-2
+lat: 35.977150, lon: 140.079334</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07933432100003,35.97715036000005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0141</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 942㎡
+住所: 茨城県つくばみらい市野堀字中根窪206
+lat: 35.977199, lon: 140.079792</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07979248200002,35.97719895500006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0142</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 3336㎡
+住所: 茨城県つくばみらい市野堀字中根窪207
+lat: 35.977270, lon: 140.080145</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08014501900004,35.97727025700004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0143</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 495㎡
+住所: 茨城県つくばみらい市野堀字北入窪158
+lat: 35.977820, lon: 140.080742</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0807415810001,35.977819590000024,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0144</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 760㎡
+住所: 茨城県つくばみらい市野堀字北入窪159
+lat: 35.977838, lon: 140.080345</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08034477800004,35.97783841000006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0145</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 1324㎡
+住所: 茨城県つくばみらい市野堀字北入窪162
+lat: 35.977959, lon: 140.080804</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08080409700005,35.97795916500007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0146</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 391㎡
+住所: 茨城県つくばみらい市野堀字北入窪165
+lat: 35.978358, lon: 140.080628</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0806279410001,35.97835804400006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0147</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 362㎡
+住所: 茨城県つくばみらい市野堀字北入窪166
+lat: 35.978451, lon: 140.080479</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08047890300008,35.978450844000065,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0148</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 680㎡
+住所: 茨城県つくばみらい市野堀字北入窪167
+lat: 35.978589, lon: 140.080196</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08019599400006,35.97858861100008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0149</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 475㎡
+住所: 茨城県つくばみらい市野堀字北入窪168
+lat: 35.978789, lon: 140.079929</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07992858400007,35.97878867700007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0150</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 350㎡
+住所: 茨城県つくばみらい市野堀字北入窪169
+lat: 35.978896, lon: 140.080071</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08007131600004,35.97889628000007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0151</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 465㎡
+住所: 茨城県つくばみらい市野堀字北入窪170
+lat: 35.978722, lon: 140.080301</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.080300673,35.978721706000044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0152</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 221㎡
+住所: 茨城県つくばみらい市野堀字北入窪173
+lat: 35.978987, lon: 140.080169</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0801693850001,35.97898717800007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0153</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 478㎡
+住所: 茨城県つくばみらい市野堀字北入窪174
+lat: 35.979131, lon: 140.080251</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0802508380001,35.97913116900003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0154</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 501㎡
+住所: 茨城県つくばみらい市野堀字北入窪175
+lat: 35.979356, lon: 140.080265</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08026499800008,35.97935579700004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0155</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 843㎡
+住所: 茨城県つくばみらい市野堀字北入窪176
+lat: 35.979567, lon: 140.080087</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08008703100006,35.97956738200003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0156</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1055㎡
+住所: 茨城県つくばみらい市野堀字北入窪178
+lat: 35.979816, lon: 140.079819</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0798190480001,35.97981581100004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0157</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1191㎡
+住所: 茨城県つくばみらい市野堀字北入窪183
+lat: 35.978748, lon: 140.079481</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07948109200004,35.97874758100005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0158</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 2419㎡
+住所: 茨城県つくばみらい市野堀字北入窪185
+lat: 35.979312, lon: 140.079483</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0794834620001,35.979311884000026,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0159</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 3646㎡
+住所: 茨城県つくばみらい市野堀字中根窪台213-1
+lat: 35.976811, lon: 140.078652</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0786522400001,35.97681096100007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0160</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 540㎡
+住所: 茨城県つくばみらい市野堀字中根窪台213-4
+lat: 35.976923, lon: 140.079437</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07943722100003,35.97692268700007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0161</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 4493㎡
+住所: 茨城県つくばみらい市野堀字中根窪台213-6
+lat: 35.976786, lon: 140.079881</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07988136900008,35.97678617500003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0162</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 542㎡
+住所: 茨城県つくばみらい市野堀字中根窪台213-14
+lat: 35.976786, lon: 140.079881</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07988136900008,35.97678617500003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0163</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 2405㎡
+住所: 茨城県つくばみらい市野堀字向山214-1
+lat: 35.975866, lon: 140.079475</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07947466400003,35.97586581500008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0164</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1179㎡
+住所: 茨城県つくばみらい市野堀字伝兵ヱ下216
+lat: 35.975978, lon: 140.078744</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07874405300004,35.97597843600005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0165</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 439㎡
+住所: 茨城県つくばみらい市野堀字伝兵ヱ下218
+lat: 35.975564, lon: 140.079130</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0791303850001,35.97556427500007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0166</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1199㎡
+住所: 茨城県つくばみらい市野堀字伝兵ヱ下219
+lat: 35.975457, lon: 140.079326</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07932557100003,35.97545709700006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0167</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 661㎡
+住所: 茨城県つくばみらい市野堀字山ノ下408
+lat: 35.973926, lon: 140.079550</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07955048100007,35.973925793000035,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0168</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1039㎡
+住所: 茨城県つくばみらい市野堀字前山235
+lat: 35.974808, lon: 140.080691</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08069118900005,35.97480798300006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0169</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1652㎡
+住所: 茨城県つくばみらい市野堀字鷲山242-4
+lat: 35.975413, lon: 140.081558</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08155800500003,35.97541346400004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0170</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 6083㎡
+住所: 茨城県つくばみらい市野堀字鷲山245
+lat: 35.975234, lon: 140.082181</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08218135200002,35.97523403300005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0171</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 439㎡
+住所: 茨城県つくばみらい市野堀字鷲山248
+lat: 35.975538, lon: 140.082282</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08228187800012,35.975538404000076,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0172</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 68㎡
+住所: 茨城県つくばみらい市野堀字鷲山249-2
+lat: 35.975618, lon: 140.082305</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08230497800002,35.97561827000004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0173</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 351㎡
+住所: 茨城県つくばみらい市野堀字鷲山251-1
+lat: 35.975832, lon: 140.082337</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08233700300002,35.97583227900003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0174</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 360㎡
+住所: 茨城県つくばみらい市野堀字鷲山251-2
+lat: 35.975782, lon: 140.082642</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08264207600007,35.975781863000066,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0175</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 516㎡
+住所: 茨城県つくばみらい市野堀字鷲山252
+lat: 35.975883, lon: 140.082575</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0825753030001,35.97588261100003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0176</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 268㎡
+住所: 茨城県つくばみらい市野堀字原畑253-1
+lat: 35.975998, lon: 140.082355</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08235532100002,35.97599811200007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0177</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 939㎡
+住所: 茨城県つくばみらい市野堀字原畑254-1
+lat: 35.975933, lon: 140.081841</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08184123600006,35.97593305700008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0178</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 171㎡
+住所: 茨城県つくばみらい市野堀字原畑257
+lat: 35.976439, lon: 140.081924</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08192434800003,35.97643858300006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0179</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 353㎡
+住所: 茨城県つくばみらい市野堀字原畑263-1
+lat: 35.976217, lon: 140.082868</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0828675890001,35.97621700700006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0180</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 686㎡
+住所: 茨城県つくばみらい市野堀字原畑264
+lat: 35.976567, lon: 140.082756</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08275626400007,35.976566974000036,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0181</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 295㎡
+住所: 茨城県つくばみらい市野堀字原畑265-1
+lat: 35.976717, lon: 140.082951</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08295069000008,35.97671666700006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0182</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 602㎡
+住所: 茨城県つくばみらい市野堀字原畑266
+lat: 35.976500, lon: 140.082954</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08295425000006,35.976500101000056,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0183</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 442㎡
+住所: 茨城県つくばみらい市野堀字原畑267-1
+lat: 35.976766, lon: 140.083246</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08324612600006,35.976765863000026,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0184</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1861㎡
+住所: 茨城県つくばみらい市野堀字原畑278-1
+lat: 35.976551, lon: 140.083374</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0833740050001,35.97655106700006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0185</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1615㎡
+住所: 茨城県つくばみらい市野堀字原畑278-5
+lat: 35.976401, lon: 140.083523</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08352318700008,35.97640062500005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0186</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 554㎡
+住所: 茨城県つくばみらい市野堀字原畑280-1
+lat: 35.976226, lon: 140.083762</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08376158300007,35.97622569200007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0187</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1380㎡
+住所: 茨城県つくばみらい市野堀字原畑281-1
+lat: 35.976089, lon: 140.083524</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0835238940001,35.97608942100004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0188</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 625㎡
+住所: 茨城県つくばみらい市野堀字原畑282-1
+lat: 35.976252, lon: 140.084308</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0843084180001,35.976252274000046,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0189</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1285㎡
+住所: 茨城県つくばみらい市野堀字原畑354-2
+lat: 35.975645, lon: 140.084147</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08414740500007,35.97564500400006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0190</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 336㎡
+住所: 茨城県つくばみらい市野堀字原畑355-1
+lat: 35.975501, lon: 140.083710</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08370967500002,35.97550135600005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0191</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 526㎡
+住所: 茨城県つくばみらい市野堀字原畑357-1
+lat: 35.975832, lon: 140.083817</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0838172240001,35.975832307000076,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0192</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 116㎡
+住所: 茨城県つくばみらい市野堀字原畑359-1
+lat: 35.975855, lon: 140.083069</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08306936600002,35.975855231000025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0193</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 240㎡
+住所: 茨城県つくばみらい市野堀字原畑361
+lat: 35.975682, lon: 140.082804</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08280358700006,35.97568150400008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0194</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 396㎡
+住所: 茨城県つくばみらい市野堀字原畑362
+lat: 35.975537, lon: 140.082797</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0827968960001,35.97553711200004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0195</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 854㎡
+住所: 茨城県つくばみらい市野堀字明神脇276
+lat: 35.977238, lon: 140.083783</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0837829290001,35.97723812600003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0196</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 361㎡
+住所: 茨城県つくばみらい市野堀字明神脇277
+lat: 35.976962, lon: 140.083811</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0838113530001,35.97696184900008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0197</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 400㎡
+住所: 茨城県つくばみらい市野堀字明神脇283
+lat: 35.976377, lon: 140.084238</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08423826800004,35.97637651300005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0198</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 357㎡
+住所: 茨城県つくばみらい市野堀字明神脇284
+lat: 35.976412, lon: 140.084529</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08452888800002,35.97641171600003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0199</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 575㎡
+住所: 茨城県つくばみらい市野堀字明神脇285
+lat: 35.976592, lon: 140.084547</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08454661000007,35.97659164600003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0200</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 528㎡
+住所: 茨城県つくばみらい市野堀字明神脇286
+lat: 35.976515, lon: 140.084255</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08425491600008,35.97651461700008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0201</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 729㎡
+住所: 茨城県つくばみらい市野堀字明神脇287
+lat: 35.976694, lon: 140.084244</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08424354800002,35.97669410900005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0202</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 713㎡
+住所: 茨城県つくばみらい市野堀字明神脇288
+lat: 35.976929, lon: 140.084271</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08427096600008,35.97692888700004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0203</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 825㎡
+住所: 茨城県つくばみらい市野堀字明神脇290
+lat: 35.976889, lon: 140.084574</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08457438400012,35.976888933000055,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0204</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 188㎡
+住所: 茨城県つくばみらい市野堀字明神脇291-1
+lat: 35.977258, lon: 140.084446</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0844457190001,35.977257888000054,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0205</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 645㎡
+住所: 茨城県つくばみらい市野堀字明神脇291-2
+lat: 35.977205, lon: 140.084638</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08463756000003,35.97720472700007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0206</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 259㎡
+住所: 茨城県つくばみらい市野堀字明神脇291-3
+lat: 35.977303, lon: 140.084800</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08480045300007,35.97730267500003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0207</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 230㎡
+住所: 茨城県つくばみらい市野堀字栗山下292
+lat: 35.977073, lon: 140.084846</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08484605800004,35.97707256900003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0208</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 337㎡
+住所: 茨城県つくばみらい市野堀字栗山下293
+lat: 35.977202, lon: 140.084988</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0849877820001,35.97720199400004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0209</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 136㎡
+住所: 茨城県つくばみらい市野堀字栗山下297
+lat: 35.976851, lon: 140.085128</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08512774200005,35.97685145300005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0210</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 302㎡
+住所: 茨城県つくばみらい市野堀字栗山下298
+lat: 35.977004, lon: 140.084995</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08499521800002,35.977004403000024,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0211</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1492㎡
+住所: 茨城県つくばみらい市野堀字栗山下299-1
+lat: 35.976886, lon: 140.084826</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08482631000004,35.97688619500008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0212</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 274.72㎡
+住所: 茨城県つくばみらい市野堀字栗山下299-3
+lat: 35.976726, lon: 140.084919</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0849191850001,35.97672626100007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0213</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 67㎡
+住所: 茨城県つくばみらい市野堀字栗山下301-1
+lat: 35.976377, lon: 140.085103</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08510333700008,35.97637679200005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0214</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 233㎡
+住所: 茨城県つくばみらい市野堀字栗山下304-1
+lat: 35.976340, lon: 140.085185</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08518508100008,35.976340013000026,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0215</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1503㎡
+住所: 茨城県つくばみらい市野堀字宅地脇309
+lat: 35.975990, lon: 140.085087</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08508692500004,35.97599042500008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0216</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 463㎡
+住所: 茨城県つくばみらい市野堀字観音道321-1
+lat: 35.974973, lon: 140.085836</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08583647900002,35.974973103000025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0217</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 330㎡
+住所: 茨城県つくばみらい市野堀字観音道322-1
+lat: 35.974768, lon: 140.085932</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0859318780001,35.974767636000024,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0218</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 453㎡
+住所: 茨城県つくばみらい市野堀字観音道322-3
+lat: 35.974866, lon: 140.085887</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08588733200008,35.97486588400005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0219</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 342㎡
+住所: 茨城県つくばみらい市野堀字観音道323-1
+lat: 35.974701, lon: 140.085964</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.085964331,35.97470129900006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0220</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 407㎡
+住所: 茨城県つくばみらい市野堀字観音道324-1
+lat: 35.974620, lon: 140.086007</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0860066340001,35.97462039100003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0221</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1029㎡
+住所: 茨城県つくばみらい市野堀字天神脇335
+lat: 35.974009, lon: 140.085355</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08535528000004,35.974009161000026,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0222</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 392㎡
+住所: 茨城県つくばみらい市野堀字天神脇336-1
+lat: 35.973996, lon: 140.084898</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08489761500005,35.97399559000007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0223</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1052㎡
+住所: 茨城県つくばみらい市野堀字寺下343-1
+lat: 35.974486, lon: 140.084203</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08420345600007,35.97448586200005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0224</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 899㎡
+住所: 茨城県つくばみらい市野堀字寺ノ脇346-1
+lat: 35.974670, lon: 140.084773</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08477286700008,35.97466983800007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0225</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 2578㎡
+住所: 茨城県つくばみらい市野堀字鍛治屋敷351
+lat: 35.975281, lon: 140.083524</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08352408100006,35.97528080700005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0226</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1224㎡
+住所: 茨城県つくばみらい市野堀字西ノ窪363
+lat: 35.975587, lon: 140.083187</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08318675400005,35.97558690100004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0227</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 932㎡
+住所: 茨城県つくばみらい市野堀字西ノ窪364
+lat: 35.975385, lon: 140.083233</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08323334400006,35.975384674000054,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0228</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 179㎡
+住所: 茨城県つくばみらい市野堀字西ノ窪365
+lat: 35.975272, lon: 140.083183</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0831834920001,35.97527168600004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0229</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 172㎡
+住所: 茨城県つくばみらい市野堀字西ノ窪366
+lat: 35.975188, lon: 140.083174</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08317410400002,35.97518809800005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0230</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 651㎡
+住所: 茨城県つくばみらい市野堀字西ノ窪367
+lat: 35.975084, lon: 140.083173</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08317313700002,35.97508447800004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0231</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 596㎡
+住所: 茨城県つくばみらい市野堀字西ノ窪368
+lat: 35.974914, lon: 140.083076</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08307550300003,35.97491427400007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0232</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 244㎡
+住所: 茨城県つくばみらい市野堀字西ノ窪369
+lat: 35.974957, lon: 140.083337</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08333662600012,35.974957310000036,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0233</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1392㎡
+住所: 茨城県つくばみらい市野堀字西ノ窪370
+lat: 35.974767, lon: 140.083500</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0834999330001,35.97476655300005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0234</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1375㎡
+住所: 茨城県つくばみらい市野堀字大日山439
+lat: 35.975824, lon: 140.077572</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0775716170001,35.975823553000055,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0235</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 611㎡
+住所: 茨城県つくばみらい市野堀字大日山440
+lat: 35.975447, lon: 140.077616</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07761601800007,35.97544728400004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0236</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 461㎡
+住所: 茨城県つくばみらい市野堀字大日山440-1
+lat: 35.976358, lon: 140.078204</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07820437600003,35.97635791000005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0237</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 769㎡
+住所: 茨城県つくばみらい市野堀字大日山440-3
+lat: 35.975151, lon: 140.077541</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0775414860001,35.97515121200007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0238</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1081㎡
+住所: 茨城県つくばみらい市野堀字大日山440-4
+lat: 35.975902, lon: 140.078040</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0780396990001,35.97590216000003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0239</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 811㎡
+住所: 茨城県つくばみらい市野堀字大日山440-5
+lat: 35.975855, lon: 140.077805</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07780483400006,35.975854808000065,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0240</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1018㎡
+住所: 茨城県つくばみらい市野堀字大日山440-6
+lat: 35.975245, lon: 140.077766</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0777662700001,35.97524452400006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0241</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 391㎡
+住所: 茨城県つくばみらい市野堀字大日山440-7
+lat: 35.976377, lon: 140.078014</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07801352800004,35.976377386000024,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0242</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 137㎡
+住所: 茨城県つくばみらい市野堀字大日山440-8
+lat: 35.976370, lon: 140.078102</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07810208800004,35.976369645000034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0243</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 211㎡
+住所: 茨城県つくばみらい市野堀字大日山440-9
+lat: 35.976186, lon: 140.077968</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07796845400003,35.976186262000056,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0244</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 190㎡
+住所: 茨城県つくばみらい市野堀字大日山440-10
+lat: 35.975922, lon: 140.077952</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0779517740001,35.975922393000076,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0245</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 340㎡
+住所: 茨城県つくばみらい市野堀字溜井下416
+lat: 35.973936, lon: 140.078775</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07877538600007,35.97393636100003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0246</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 350㎡
+住所: 茨城県つくばみらい市野堀字溜井下432
+lat: 35.974112, lon: 140.077398</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07739804800008,35.97411202700005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0247</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 264㎡
+住所: 茨城県つくばみらい市野堀字溜井下432-1
+lat: 35.973871, lon: 140.077391</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0773911120001,35.97387068200004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0248</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 522㎡
+住所: 茨城県つくばみらい市野堀字溜井下432-2
+lat: 35.973637, lon: 140.077559</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07755948300007,35.973636714000065,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0249</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 613㎡
+住所: 茨城県つくばみらい市野堀字白山脇441-1
+lat: 35.976746, lon: 140.077709</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0777094560001,35.97674640500003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0250</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 521㎡
+住所: 茨城県つくばみらい市野堀字前畑444-2
+lat: 35.977161, lon: 140.077591</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.07759070200007,35.97716054500006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0251</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1057㎡
+住所: 茨城県つくばみらい市野堀字唐戸山450-2
+lat: 35.978767, lon: 140.077416</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0774159550001,35.97876703400004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0252</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 582㎡
+住所: 茨城県つくばみらい市野堀字原山355-2
+lat: 35.975520, lon: 140.083992</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08399241400002,35.975520139000025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0253</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 763㎡
+住所: 茨城県つくばみらい市野堀字毛行651
+lat: 35.969939, lon: 140.080465</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08046547800006,35.969939228000044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0254</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 3887㎡
+住所: 茨城県つくばみらい市野堀字稲荷山701
+lat: 35.973687, lon: 140.081318</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08131833100003,35.97368684200006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0255</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 2254㎡
+住所: 茨城県つくばみらい市神生字本田68-2
+lat: 35.970253, lon: 140.082919</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08291948500005,35.97025276000005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0256</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1084㎡
+住所: 茨城県つくばみらい市神生字本田70
+lat: 35.969710, lon: 140.082916</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08291634500006,35.96971011100004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0257</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 124㎡
+住所: 茨城県つくばみらい市神生字前畑入73-1
+lat: 35.970285, lon: 140.084428</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08442785500006,35.97028450800008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0258</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 198㎡
+住所: 茨城県つくばみらい市神生字前畑入73-2
+lat: 35.970311, lon: 140.084559</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08455917800006,35.97031075000007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0259</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 377㎡
+住所: 茨城県つくばみらい市神生字前畑入74-1
+lat: 35.970422, lon: 140.084473</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08447338400003,35.970421593000026,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0260</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 462㎡
+住所: 茨城県つくばみらい市神生字前畑入76-1
+lat: 35.970851, lon: 140.084726</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08472582800005,35.97085100500004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0261</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 717㎡
+住所: 茨城県つくばみらい市神生字前畑入77
+lat: 35.970657, lon: 140.084817</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0848168020001,35.97065663700005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0262</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 581㎡
+住所: 茨城県つくばみらい市神生字前畑入78
+lat: 35.970492, lon: 140.084832</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08483215600006,35.97049238400007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0263</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 753㎡
+住所: 茨城県つくばみらい市神生字前畑入79
+lat: 35.970360, lon: 140.084878</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0848782930001,35.97036019900003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0264</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 201㎡
+住所: 茨城県つくばみらい市神生字前畑入80
+lat: 35.970324, lon: 140.085098</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0850982380001,35.97032384200003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0265</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 998㎡
+住所: 茨城県つくばみらい市神生字前畑入81-1
+lat: 35.970195, lon: 140.084791</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08479121200003,35.97019490500003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0266</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 844㎡
+住所: 茨城県つくばみらい市神生字前畑入82-1
+lat: 35.970046, lon: 140.084750</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0847504290001,35.970046240000045,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0267</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 327㎡
+住所: 茨城県つくばみらい市神生字前畑入83
+lat: 35.970109, lon: 140.085155</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0851553340001,35.97010914600003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0268</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 1137㎡
+住所: 茨城県つくばみらい市神生字前畑84-1
+lat: 35.969893, lon: 140.084920</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0849195940001,35.96989267200007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0269</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 601㎡
+住所: 茨城県つくばみらい市神生字前畑85-1
+lat: 35.969776, lon: 140.084956</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08495604900008,35.969776470000056,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0270</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 649㎡
+住所: 茨城県つくばみらい市神生字前畑86-1
+lat: 35.969698, lon: 140.084989</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08498929900009,35.969698304000076,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0271</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 446㎡
+住所: 茨城県つくばみらい市神生字高崎125
+lat: 35.969990, lon: 140.085465</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0854654420001,35.96999046500008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0272</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 257㎡
+住所: 茨城県つくばみらい市神生字高崎126
+lat: 35.970296, lon: 140.085276</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08527629200012,35.97029599800004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0273</name>
+        <description>遊休農地: 遊休農地（不耕作黄）
+面積: 451㎡
+住所: 茨城県つくばみらい市神生字高崎127-1
+lat: 35.970376, lon: 140.085329</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.08532929900002,35.97037639200005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0274</name>
+        <description>遊休農地: 遊休農地ではない
+面積: 63㎡
+住所: 茨城県つくばみらい市神生字高崎127-2
+lat: 35.970845, lon: 140.085100</description>
+        <styleUrl>#pin</styleUrl>
+        <Point>
+          <coordinates>140.0850996800001,35.97084511000003,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,941 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>遊休農地候補 - 笠間市</name>
+    <Style id="candidate">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>遊休農地候補</name>
+      <Placemark>
+        <name>A0001</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 6707㎡
+住所: 茨城県笠間市平町字堂淨山1068
+lat: 36.345820, lon: 140.274244</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27424351,36.34582012,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0002</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 5414㎡
+住所: 茨城県笠間市平町字星山806-78
+lat: 36.348592, lon: 140.267667</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.26766735,36.34859169,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0003</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 5197㎡
+住所: 茨城県笠間市大田町字養福寺後292-5
+lat: 36.349169, lon: 140.285659</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.28565856,36.34916903,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0004</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 3213㎡
+住所: 茨城県笠間市橋爪字薬師堂312
+lat: 36.341719, lon: 140.295349</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29534884,36.34171868,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0005</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 2834㎡
+住所: 茨城県笠間市大田町字金平547-5
+lat: 36.354693, lon: 140.291458</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29145819,36.35469295,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0006</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 2804㎡
+住所: 茨城県笠間市平町字星山816-1
+lat: 36.343034, lon: 140.272183</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27218347,36.34303419,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0007</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 2611㎡
+住所: 茨城県笠間市平町字兼田806-114
+lat: 36.346485, lon: 140.271138</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27113827,36.34648508,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0008</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 2548㎡
+住所: 茨城県笠間市平町字兼田806-128
+lat: 36.348822, lon: 140.272937</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27293735,36.34882193,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0009</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 2127㎡
+住所: 茨城県笠間市大田町字金平547-6
+lat: 36.354372, lon: 140.291230</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29123019,36.35437223,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0010</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 2021㎡
+住所: 茨城県笠間市大田町字完全寺後657-7
+lat: 36.350821, lon: 140.293061</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29306122,36.35082089,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0011</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1935㎡
+住所: 茨城県笠間市平町字兼田982-2
+lat: 36.348475, lon: 140.273394</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27339421,36.34847475,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0012</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1907㎡
+住所: 茨城県笠間市大田町字清水1403-1
+lat: 36.351904, lon: 140.276154</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27615419,36.35190434,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0013</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1887㎡
+住所: 茨城県笠間市大田町字完全寺後657-9
+lat: 36.351184, lon: 140.293329</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29332942,36.35118402,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0014</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1877㎡
+住所: 茨城県笠間市手越字下手越89-1
+lat: 36.355564, lon: 140.270977</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27097717,36.35556378,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0015</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1812㎡
+住所: 茨城県笠間市平町字持沢806-296
+lat: 36.345079, lon: 140.265694</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.26569434,36.34507875,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0016</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1698㎡
+住所: 茨城県笠間市橋爪字若宮668
+lat: 36.333298, lon: 140.295095</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29509485,36.3332985,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0017</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1584㎡
+住所: 茨城県笠間市橋爪字古館214
+lat: 36.343909, lon: 140.293768</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29376812,36.34390901,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0018</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1582㎡
+住所: 茨城県笠間市大田町字養福寺後292-3
+lat: 36.348577, lon: 140.285150</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.28515033,36.34857659,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0019</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1569㎡
+住所: 茨城県笠間市平町字星山806-243
+lat: 36.345946, lon: 140.267753</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.26775315,36.34594633,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0020</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1498㎡
+住所: 茨城県笠間市大田町字完全寺脇681-1
+lat: 36.350126, lon: 140.293493</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29349259,36.35012635,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0021</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1456㎡
+住所: 茨城県笠間市平町字八反山968
+lat: 36.350605, lon: 140.274270</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27427038,36.35060495,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0022</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1440㎡
+住所: 茨城県笠間市大田町字完全寺脇681-2
+lat: 36.349845, lon: 140.293295</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29329503,36.3498454,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0023</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1357㎡
+住所: 茨城県笠間市平町字海老根前305
+lat: 36.345387, lon: 140.281920</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.28192034,36.34538722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0024</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1296㎡
+住所: 茨城県笠間市大田町字友部道上702-1
+lat: 36.350260, lon: 140.294232</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29423247,36.35026021,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0025</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1295㎡
+住所: 茨城県笠間市平町字八反山966-7
+lat: 36.350573, lon: 140.274009</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27400856,36.35057343,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0026</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1279㎡
+住所: 茨城県笠間市大田町字完全寺脇681-3
+lat: 36.349538, lon: 140.293131</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29313105,36.34953806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0027</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1272㎡
+住所: 茨城県笠間市橋爪字比丘尼前480
+lat: 36.340185, lon: 140.293980</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29398046,36.34018518,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0028</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1212㎡
+住所: 茨城県笠間市平町字北ノ久保1183
+lat: 36.343776, lon: 140.279971</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27997058,36.3437759,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0029</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1128㎡
+住所: 茨城県笠間市平町字北ノ久保1192(１)
+lat: 36.344600, lon: 140.280218</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.28021849,36.34460035,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0030</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1126㎡
+住所: 茨城県笠間市平町字兼田981
+lat: 36.348389, lon: 140.272690</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.2726901,36.34838867,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0031</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1097㎡
+住所: 茨城県笠間市平町字八反山961-1
+lat: 36.350278, lon: 140.272652</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27265214,36.35027827,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0032</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1055㎡
+住所: 茨城県笠間市大田町字金平559-1
+lat: 36.355419, lon: 140.293155</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.2931546,36.3554194,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0033</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 1054㎡
+住所: 茨城県笠間市大田町字金平559-2
+lat: 36.355331, lon: 140.293471</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.2934706,36.35533086,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0034</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 966㎡
+住所: 茨城県笠間市大田町字二階橋1013-1
+lat: 36.347891, lon: 140.295816</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29581614,36.34789083,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0035</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 900㎡
+住所: 茨城県笠間市大田町字養福寺後292-13
+lat: 36.349969, lon: 140.285702</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.28570153,36.34996899,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0036</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 886㎡
+住所: 茨城県笠間市橋爪字勘三山452
+lat: 36.340106, lon: 140.295761</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29576118,36.3401063,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0037</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 855㎡
+住所: 茨城県笠間市橋爪字若宮660
+lat: 36.333917, lon: 140.293642</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.2936418,36.33391705,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0038</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 813㎡
+住所: 茨城県笠間市平町字海老根前302
+lat: 36.345539, lon: 140.282186</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.28218609,36.34553918,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0039</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 811㎡
+住所: 茨城県笠間市平町字持沢854
+lat: 36.345782, lon: 140.265409</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.26540948,36.34578242,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0040</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 810㎡
+住所: 茨城県笠間市橋爪字勘三山447
+lat: 36.340319, lon: 140.295147</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29514711,36.34031871,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0041</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 769㎡
+住所: 茨城県笠間市大田町字友部道上764
+lat: 36.349846, lon: 140.294455</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29445549,36.34984599,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0042</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 768㎡
+住所: 茨城県笠間市大田町字兎久保1389
+lat: 36.348325, lon: 140.281537</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.28153661,36.34832453,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0043</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 662㎡
+住所: 茨城県笠間市大田町字友部道上768
+lat: 36.349978, lon: 140.294789</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29478866,36.3499782,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0044</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 645㎡
+住所: 茨城県笠間市橋爪字若宮663
+lat: 36.333540, lon: 140.294345</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29434491,36.33353989,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0045</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 632㎡
+住所: 茨城県笠間市平町字八反山806-273
+lat: 36.350108, lon: 140.272572</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27257217,36.35010848,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0046</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 621㎡
+住所: 茨城県笠間市平町字八反山921
+lat: 36.353914, lon: 140.273683</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27368265,36.35391395,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0047</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 599㎡
+住所: 茨城県笠間市橋爪字若宮666
+lat: 36.333519, lon: 140.294559</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.2945592,36.33351894,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0048</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 592.38㎡
+住所: 茨城県笠間市平町字八反山1043
+lat: 36.352697, lon: 140.274756</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27475589,36.35269703,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0049</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 592㎡
+住所: 茨城県笠間市大田町字友部道上761
+lat: 36.349579, lon: 140.294539</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29453925,36.34957912,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0050</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 564㎡
+住所: 茨城県笠間市大田町字滝前1612-7
+lat: 36.350203, lon: 140.291909</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29190912,36.3502025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0051</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 503㎡
+住所: 茨城県笠間市平町字持沢806-50
+lat: 36.345874, lon: 140.265810</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.26581034,36.34587413,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0052</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 485㎡
+住所: 茨城県笠間市平町字北ノ窪1150-1
+lat: 36.343987, lon: 140.279167</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27916696,36.34398716,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0053</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 442㎡
+住所: 茨城県笠間市平町字八反山922
+lat: 36.353708, lon: 140.273699</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27369884,36.35370773,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0054</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 438㎡
+住所: 茨城県笠間市橋爪字薬師堂313
+lat: 36.341496, lon: 140.295171</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29517131,36.341496,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0055</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 386㎡
+住所: 茨城県笠間市大田町字滝前1612-5
+lat: 36.350397, lon: 140.291876</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29187585,36.35039732,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0056</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 383㎡
+住所: 茨城県笠間市南小泉字権現前59
+lat: 36.333350, lon: 140.291787</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29178713,36.33334991,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0057</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 374㎡
+住所: 茨城県笠間市平町字北ノ久保1199-1
+lat: 36.344091, lon: 140.279916</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27991639,36.34409147,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0058</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 351㎡
+住所: 茨城県笠間市大田町字滝前1612-6
+lat: 36.350360, lon: 140.292110</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29211025,36.35035954,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0059</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 350㎡
+住所: 茨城県笠間市大田町字完全寺後657-28
+lat: 36.351445, lon: 140.293608</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29360799,36.35144508,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0060</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 341㎡
+住所: 茨城県笠間市大田町字新町出口184-1
+lat: 36.347208, lon: 140.284139</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.28413927,36.34720831,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0061</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 292㎡
+住所: 茨城県笠間市平町字北ノ久保1190-1
+lat: 36.344689, lon: 140.280060</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.28006037,36.34468935,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0062</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 281㎡
+住所: 茨城県笠間市橋爪字若宮664
+lat: 36.333726, lon: 140.294466</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29446568,36.33372576,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0063</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 278㎡
+住所: 茨城県笠間市平町字星山816-2
+lat: 36.343120, lon: 140.271864</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27186389,36.34312045,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0064</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 276㎡
+住所: 茨城県笠間市橋爪字薬師堂305
+lat: 36.341643, lon: 140.294828</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29482848,36.34164311,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0065</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 265㎡
+住所: 茨城県笠間市橋爪字長町1066
+lat: 36.335855, lon: 140.292812</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29281236,36.33585487,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0066</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 252㎡
+住所: 茨城県笠間市平町字持沢806-294
+lat: 36.346284, lon: 140.267132</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.26713227,36.34628406,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0067</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 234㎡
+住所: 茨城県笠間市大田町字滝前1612-3
+lat: 36.350705, lon: 140.291745</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29174542,36.35070541,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0068</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 204㎡
+住所: 茨城県笠間市橋爪字若宮613-1
+lat: 36.334231, lon: 140.292572</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.2925721,36.33423131,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0069</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 184.86㎡
+住所: 茨城県笠間市平町字星山806-38
+lat: 36.344720, lon: 140.264841</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.26484073,36.34471984,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0070</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 163㎡
+住所: 茨城県笠間市大田町字古舘1311
+lat: 36.344081, lon: 140.293560</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.2935603,36.34408135,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0071</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 159㎡
+住所: 茨城県笠間市橋爪字若宮613-2
+lat: 36.334168, lon: 140.292713</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.2927135,36.33416788,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0072</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 123㎡
+住所: 茨城県笠間市平町字堂前445-2
+lat: 36.340137, lon: 140.279369</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.279369,36.34013689,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0073</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 121㎡
+住所: 茨城県笠間市大田町字友部道上702-2
+lat: 36.350147, lon: 140.293954</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29395387,36.35014672,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0074</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 115㎡
+住所: 茨城県笠間市大田町字八反田1422-3
+lat: 36.352540, lon: 140.274764</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27476378,36.3525404,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0075</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 94㎡
+住所: 茨城県笠間市平町字本町2001-1
+lat: 36.340161, lon: 140.283320</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.28331983,36.34016096,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0076</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 80㎡
+住所: 茨城県笠間市大田町字滝前1612-47
+lat: 36.350337, lon: 140.292018</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29201761,36.35033725,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0077</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 57㎡
+住所: 茨城県笠間市平町字兼田806-315
+lat: 36.346217, lon: 140.272688</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.27268813,36.34621748,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0078</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 41㎡
+住所: 茨城県笠間市大田町字友部道上702-3
+lat: 36.350139, lon: 140.293896</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29389619,36.35013948,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0079</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 32㎡
+住所: 茨城県笠間市大田町字滝前1612-48
+lat: 36.350472, lon: 140.292028</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29202773,36.35047213,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0080</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 11㎡
+住所: 茨城県笠間市大田町字友部道上758-4
+lat: 36.349884, lon: 140.293991</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29399128,36.34988404,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0081</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作緑）
+面積: 5.64㎡
+住所: 茨城県笠間市大田町字友部道上758-3
+lat: 36.349972, lon: 140.293989</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29398887,36.34997224,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0082</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作黄）
+面積: 849㎡
+住所: 茨城県笠間市手越字門前入191-1
+lat: 36.356388, lon: 140.268034</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.26803384,36.35638765,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0083</name>
+        <description>遊休農地フラグ: 遊休農地（不耕作黄）
+面積: 68㎡
+住所: 茨城県笠間市手越字早稲田201-1
+lat: 36.356368, lon: 140.268569</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.26856903,36.35636818,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A0084</name>
+        <description>遊休農地フラグ: 遊休農地（低利用）
+面積: 62㎡
+住所: 茨城県笠間市大田町字沓形807-2
+lat: 36.349622, lon: 140.295357</description>
+        <styleUrl>#candidate</styleUrl>
+        <Point>
+          <coordinates>140.29535676,36.34962221,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
