@@ -38,38 +38,45 @@ except ImportError:
 # --- 設定 ---
 LABELS_CSV = "labels/combined_labels.csv"
 _GDRIVE    = "/Users/nagatomotaito/Library/CloudStorage/GoogleDrive-ntaito.50@gmail.com/マイドライブ"
+_GEE       = f"{_GDRIVE}/GEE_exports"
 
 FEATURE_CSVS = {
     "つくばみらい市": "data/tsukubamirai_features.csv",
     "稲敷市":         "data/inashiki_features.csv",
     "笠間市":         "data/kasama_features.csv",
-    "香取市":         f"{_GDRIVE}/katori_features_base_2023.csv",
+    "香取市":         f"{_GEE}/katori_features_base_2023.csv",
 }
 
-# 時系列追加特徴量CSV v2
+# 時系列追加特徴量CSV v4（elevation・slope・BSI・月次NDVI12時点追加）
 TIMESERIES_CSVS = {
-    "つくばみらい市": f"{_GDRIVE}/tsukubamirai_features_v2_2023.csv",
-    "稲敷市":         f"{_GDRIVE}/inashiki_features_v2_2023.csv",
-    "笠間市":         f"{_GDRIVE}/kasama_features_v2_2023.csv",
-    "香取市":         f"{_GDRIVE}/katori_features_v2_2023.csv",
+    "つくばみらい市": f"{_GEE}/tsukubamirai_features_v4_2023.csv",
+    "稲敷市":         f"{_GEE}/inashiki_features_v4_2023.csv",
+    "笠間市":         f"{_GEE}/kasama_features_v4_2023.csv",
+    "香取市":         f"{_GEE}/katori_features_v4_2023.csv",
 }
 TIMESERIES_COLS = [
+    # NDVI年間統計
     "NDVI_mean", "NDVI_max", "NDVI_min", "NDVI_range", "NDVI_std",
-    "NDWI_mean",
-    "NDVI_apr", "NDVI_jun", "NDVI_aug", "NDVI_oct",
+    # NDWI・BSI
+    "NDWI_mean", "BSI_mean",
+    # 月次NDVI（12時点）
+    "NDVI_jan", "NDVI_feb", "NDVI_mar", "NDVI_apr",
+    "NDVI_may", "NDVI_jun", "NDVI_jul", "NDVI_aug",
+    "NDVI_oct", "NDVI_nov", "NDVI_dec",  # NDVI_sepは笠間で全NaN→除外
+    # SAR
     "VH_mean", "VH_std",
-    # v3追加: EVI・NDMI・GLCMテクスチャ
-    "EVI_mean", "NDMI_mean",
-    "VH_contrast", "VH_ent", "VH_idm", "VH_corr",
+    # 地形（v4追加）
+    "elevation", "slope",
 ]
 
 BASE_FEATURES = ["VH_min", "NDVI_grow", "VH_winter", "NDVI_flood"]
-# SHAP検証済み: 上位8特徴量（v3追加特徴量は改善なし→v2で十分）
+# SHAP検証済み最適特徴量（v4追加は改善なし→v2の8特徴量が最良）
 ALL_FEATURES  = [
     "NDVI_apr", "NDVI_flood", "dNDVI", "dVH",
-    "NDWI_mean", "VH_min", "NDVI_mean", "area_m2",
+    "NDWI_mean", "VH_min", "NDVI_mean",
+    # area_m2はアブレーション検証で汎化に貢献しないと判明→除外
 ]
-# アブレーション比較用（v2・8特徴量）
+# アブレーション比較用（area_m2あり・8特徴量）
 REDUCED_FEATURES = [
     "NDVI_apr", "NDVI_flood", "dNDVI", "dVH",
     "NDWI_mean", "VH_min", "NDVI_mean", "area_m2",
@@ -401,7 +408,7 @@ def get_model_configs() -> list[dict]:
             "params": {
                 "clf__C":      [0.01, 0.1, 1, 10, 100],
                 "clf__penalty": ["l1", "l2"],
-                "clf__solver":  ["liblinear", "saga"],
+                "clf__solver":  ["saga"],  # liblinearは多クラス非対応のため除外
             },
         },
     ]
@@ -791,33 +798,105 @@ def analyze_feature_importance(dataset: pd.DataFrame,
 
 
 # =====================================================================
+# 1段階 vs 2段階パイプライン比較
+# =====================================================================
+
+def compare_pipeline_stages(dataset2: pd.DataFrame,
+                              dataset3: pd.DataFrame,
+                              best_pipelines: dict) -> None:
+    """
+    1段階（水田を含む全農地に直接2値分類）vs 2段階（K-Means水田除外→畑vs放棄地）を比較。
+
+    1段階: dataset3の水田サンプル(クラス2)をクラス0（非放棄地）に統合し、
+           2値分類（放棄地1 vs 非放棄地0）を直接実行。
+    2段階: dataset2（水田除外済み）での2値分類 = 現行手法。
+    """
+    print("\n=== 1段階 vs 2段階パイプライン比較（SVM・2値分類）===")
+
+    # 1段階データ作成: 水田(2)→非放棄地(0)に統合
+    ds1 = dataset3.copy()
+    ds1["クラス"] = ds1["クラス"].replace(2, 0)
+
+    regions = list(FEATURE_CSVS.keys())
+    svm_pipe = best_pipelines.get("SVM")
+    if svm_pipe is None:
+        print("  SVMパイプラインが見つかりません")
+        return
+
+    results = {}
+    for label, ds in [("1段階（水田込み2値）", ds1), ("2段階（水田除外・現行）", dataset2)]:
+        all_y_true, all_y_pred = [], []
+        for test_region in regions:
+            train_df = ds[ds["地域"] != test_region]
+            test_df  = ds[ds["地域"] == test_region]
+            if len(test_df) == 0:
+                continue
+            pipe_copy = copy.deepcopy(svm_pipe)
+            pipe_copy.fit(train_df[ALL_FEATURES].values, train_df["クラス"].values)
+            y_pred = pipe_copy.predict(test_df[ALL_FEATURES].values)
+            all_y_true.extend(test_df["クラス"].values.tolist())
+            all_y_pred.extend(y_pred.tolist())
+
+        y_true = np.array(all_y_true)
+        y_pred = np.array(all_y_pred)
+        f1  = f1_score(y_true == 1, y_pred == 1, zero_division=0)
+        iou = compute_iou(y_true == 1, y_pred == 1)
+        acc = accuracy_score(y_true, y_pred)
+        results[label] = {"F1": f1, "IoU": iou, "Acc": acc, "n": len(y_true)}
+
+    print(f"\n  {'手法':<22} {'F1(放棄地)':>12} {'IoU':>8} {'Acc':>8} {'n':>6}")
+    print("  " + "─" * 60)
+    for label, r in results.items():
+        print(f"  {label:<22} {r['F1']*100:>11.2f}% {r['IoU']*100:>7.2f}% "
+              f"{r['Acc']*100:>7.2f}% {r['n']:>6}")
+
+    vals = list(results.values())
+    if len(vals) == 2:
+        delta_f1  = vals[1]["F1"]  - vals[0]["F1"]
+        delta_iou = vals[1]["IoU"] - vals[0]["IoU"]
+        print(f"\n  2段階 - 1段階: ΔF1={delta_f1*100:+.2f}%  ΔIoU={delta_iou*100:+.2f}%")
+        if delta_f1 > 0:
+            print("  → 2段階パイプラインが有効（水田除外が放棄地検出を改善）")
+        else:
+            print("  → 1段階と同等（水田除外の寄与は限定的）")
+
+
+# =====================================================================
 # 特徴量絞り込み比較（アブレーション）
 # =====================================================================
 
 def run_ablation_comparison(dataset3: pd.DataFrame,
                              best_pipelines: dict) -> None:
     """
-    全特徴量(19) vs SHAP上位8特徴量で LR・RF の3値空間CVを比較し、
-    特徴量を絞っても精度が維持されるかを確認する。
+    特徴量セットの比較（area_m2あり/なし を含む）で LR・RF の3値空間CVを評価。
     """
-    print("\n=== 特徴量アブレーション比較（全19 vs SHAP上位8）===")
-    print(f"  全特徴量  ({len(ALL_FEATURES):2d}個): {ALL_FEATURES}")
-    print(f"  絞込特徴量 ({len(REDUCED_FEATURES):2d}個): {REDUCED_FEATURES}")
+    # area_m2を除いた7特徴量セット
+    features_no_area = [f for f in ALL_FEATURES if f != "area_m2"]
+
+    print("\n=== 特徴量アブレーション比較 ===")
+    print(f"  現行8特徴量: {ALL_FEATURES}")
+    print(f"  area_m2なし: {features_no_area}")
 
     regions = list(FEATURE_CSVS.keys())
     CLASS_NAMES = ["畑(0)", "放棄地(1)", "水田(2)"]
 
     rows = []
-    for feat_name, feat_cols in [(f"SHAP上位{len(ALL_FEATURES)}特徴量（現行）", ALL_FEATURES),
-                                   (f"全{len(REDUCED_FEATURES)}特徴量（参考）", REDUCED_FEATURES)]:
+    feat_sets = [
+        (f"現行8特徴量", ALL_FEATURES),
+        (f"area_m2なし7特徴量", features_no_area),
+        (f"REDUCED_FEATURES（参考）", REDUCED_FEATURES),
+    ]
+    for feat_name, feat_cols in feat_sets:
         for model_name in ["LogisticRegression", "RandomForest"]:
             if model_name not in best_pipelines:
                 continue
 
+            # feat_cols に含まれる列のNaNを除去（area_m2など列によりNaNが異なる）
+            ds_clean = dataset3.dropna(subset=feat_cols)
             all_y_true, all_y_pred = [], []
             for test_region in regions:
-                train_df = dataset3[dataset3["地域"] != test_region]
-                test_df  = dataset3[dataset3["地域"] == test_region]
+                train_df = ds_clean[ds_clean["地域"] != test_region]
+                test_df  = ds_clean[ds_clean["地域"] == test_region]
                 if len(test_df) == 0:
                     continue
                 if (train_df["クラス"] == 2).sum() == 0:
@@ -1083,10 +1162,18 @@ def main():
         print("  GradientBoosting パイプラインが見つかりません")
 
     # ─────────────────────────────────────────
-    # F. 特徴量アブレーション比較
+    # F. 1段階 vs 2段階パイプライン比較
     # ─────────────────────────────────────────
     print("\n" + "━" * 60)
-    print("【F】特徴量アブレーション（全19 vs SHAP上位8）")
+    print("【F】1段階 vs 2段階パイプライン比較")
+    print("━" * 60)
+    compare_pipeline_stages(dataset2, dataset3, best_pipelines)
+
+    # ─────────────────────────────────────────
+    # G. 特徴量アブレーション比較
+    # ─────────────────────────────────────────
+    print("\n" + "━" * 60)
+    print("【G】特徴量アブレーション（area_m2あり/なし）")
     print("━" * 60)
     run_ablation_comparison(dataset3, best_pipelines)
 
@@ -1094,7 +1181,7 @@ def main():
     # G. SHAP値可視化（LR・3値分類）
     # ─────────────────────────────────────────
     print("\n" + "━" * 60)
-    print("【G】SHAP値可視化（LogisticRegression・放棄地クラス）")
+    print("【H】SHAP値可視化（LogisticRegression・放棄地クラス）")
     print("━" * 60)
     analyze_shap(dataset3, best_pipelines)
 
